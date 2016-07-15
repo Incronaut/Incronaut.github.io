@@ -1,0 +1,55 @@
+# This is the default format.
+# For more see: http://jekyllrb.com/docs/permalinks/
+permalink: /:year/:month/:day/:title
+
+exclude: [
+  "node_modules",
+  "build",
+  "styles",
+  "Gemfile",
+  "Gemfile.lock",
+  "README.md",
+  "Gruntfile.js",
+  "report.html",
+  ".jscs.json",
+  ".jshintrc",
+  ".gitattributes",
+  ".gitignore",
+  "package.json"
+]
+highlighter: pygments
+
+# Themes are encouraged to use these universal variables
+# so be sure to set them if your theme uses them.
+#
+title : Rubber Ducking
+description: A podcast wherein a javascript developer, .NET developer, and medical physicist get together to talk science and technology. Rubber Ducking was created by Matt Gagne, Adam Jarret, and Matt Surabian and is the the only podcast about physics, programming, and reality television.
+tagline: The only podcast about physics, programming, and reality television.
+base_url: http://rubberduckcast.com
+
+author :
+  name : Matt Gagne, Adam Jarret, Matt Surabian
+  email : ducks@rubberduckcast.com
+
+# navigation data used to generate header nav
+main_navigation:
+- text: About
+  url: /about/
+- text: Gear
+  url: /gear/
+- text: FAQ
+  url: /faq/
+- text: Archive
+  url: /archive/
+
+feed_navigation:
+- text: iTunes
+  url: https://itunes.apple.com/us/podcast/rubber-ducking/id964299243
+  icon: icon-podcast
+- text: RSS
+  url: /feed.xml
+  icon: icon-rss
+
+comments :
+  disqus:
+    shortname: rubberducking

@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<div class="episode">
+    <h2>{{page.number}}. {{page.title}}</h2>
+
+    {{ content }}
+
+    <audio controls>
+        <source src="{{ page.aac_asset_link}}" type="audio/mp4">
+        <source src="{{ page.ogg_asset_link}}" type="audio/ogg">
+        Sorry, your browser does not support the <code>audio</code> element.
+    </audio>
+    <br/>
+    <br/>
+    <div class="icon-mic"><strong>Recorded:</strong> <em>{{page.date | date: "%-d %B %Y"}}</em></div>
+    <div class="icon-tag"><strong>Featured Segments:</strong> <em>{{page.segments}}</em></div>
+    <div class="icon-download"><strong>Download As:</strong> <a href="{{page.aac_asset_link}}" class="download-link">AAC M4A</a>, <a href="{{page.ogg_asset_link}}" class="download-link">OGG</a></div>
+</div>

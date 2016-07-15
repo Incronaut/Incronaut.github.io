@@ -1,0 +1,15 @@
+---
+layout: default
+comments: true
+---
+
+<div class="faq">
+    <h2 class="pageTitle">Questions</h2>
+
+    {% for question in site.categories.questions %}
+    <div class="content">
+        {{ question.content }}
+    </div>
+    {% endfor %}
+
+</div>

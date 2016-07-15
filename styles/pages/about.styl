@@ -1,0 +1,22 @@
+@require '../mixins/content-box.styl'
+@require '../mixins/colors.styl'
+
+.about
+
+  .bio
+    content-box()
+
+    h3
+      margin 0
+      padding 0
+
+    .social
+      overflow hidden
+      margin-bottom 12px
+
+      div
+        float left
+        margin-right 12px
+
+        a
+          color $bodyTextColor
