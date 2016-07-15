@@ -35,8 +35,6 @@ author :
 main_navigation:
 - text: About
   url: /about/
-- text: Gear
-  url: /gear/
 - text: FAQ
   url: /faq/
 - text: Archive

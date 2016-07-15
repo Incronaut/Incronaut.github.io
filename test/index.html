@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<!--
 <div class="gear">
     <h2 class="pageTitle">Our Gear</h2>
     <div class="content">
@@ -26,5 +27,13 @@ layout: default
         </ul>
     </div>
 </div>
+-->
 
+<div class="content">
+    <h2>Latest Episodes</h2>
+    {% for episode in site.categories.episodes limit:2 %}
+        <strong><a href="{{ BASE_PATH }}{{ episode.url }}">{{episode.number}}. {{episode.title}}</a></strong><br/>
+        {{episode.short_description}}<br/><br/>
+    {% endfor %}
+</div>
 

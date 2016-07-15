@@ -9,8 +9,8 @@ layout: default
             <img src="{{ host.gravatar | gravatar }}" class="gravatar" alt="A photo of {{ host.name }}" align="left">
             <h3>{{ host.name }}</h3>
             <div class="social">
-                <div class="icon-github-squared"><a href="https://github.com/{{ host.github }}" target="_blank">{{ host.github }}</a></div>
-                <div class="icon-twitter-squared"><a href="https://twitter.com/{{ host.twitter }}" target="_blank">@{{ host.twitter }}</a></div>
+                <div class="icon-github-squared"><p>Github: <a href="https://github.com/{{ host.github }}" target="_blank">{{ host.github }}</a></p></div>
+                <div class="icon-twitter-squared"><p>Twitter: <a href="https://twitter.com/{{ host.twitter }}" target="_blank">@{{ host.twitter }}</a></p></div>
             </div>
             {{ host.bio }}
         </div>
