@@ -1,7 +1,7 @@
 ---
 layout: episode
 number: "000"
-title: "Learning To Podcast"
+title: "NPC Talk Ep35 Spec Ops"
 duration: "25:31"
 length: "13345475"
 short_description: "Find out how many balloons it would take to float a turtle and whether or not the best part of space is the difficulty of hoarding animals there."
