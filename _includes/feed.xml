@@ -25,11 +25,9 @@
         <itunes:subtitle>{{site.tagline}}</itunes:subtitle>
         <itunes:summary>{{site.tagline}}</itunes:summary>
         <itunes:keywords></itunes:keywords>
-        <itunes:category text="Technology">
-            <itunes:category text="Tech News" />
+        <itunes:category text="Video Games">
+            <itunes:category text="Entertainment" />
         </itunes:category>
-        <itunes:category text="Science &amp; Medicine" />
-        <itunes:category text="TV &amp; Film" />
         <itunes:author>{{site.author.name}}</itunes:author>
         <itunes:owner>
             <itunes:name>{{site.author.name}}</itunes:name>
@@ -46,8 +44,8 @@
             <pubDate>{{ episode.date | date_to_rfc822 }}</pubDate>
             <description>{{'<![CDATA['}}{{ episode.short_description }}{{']]>'}}</description>
 
-            <enclosure url="{{ episode.aac_asset_link | xml_escape }}" length="{{ episode.length }}" type="audio/mpeg" />
-            <guid>{{ episode.aac_asset_link | xml_escape }}</guid>
+            <enclosure url="{{ episode.link | xml_escape }}" length="{{ episode.length }}" type="audio/mpeg" />
+            <guid>{{ episode.link | xml_escape }}</guid>
 
             <itunes:author>{{site.author.name}}</itunes:author>
             <itunes:summary>{{ episode.content | strip_html | xml_escape }}</itunes:summary>
