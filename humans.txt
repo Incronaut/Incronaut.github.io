@@ -2,9 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-    Matt Surabian -- Developer & Writing -- @mattsurabian
-    Matt Gagne -- Design & Writing -- @rubberduckmatt
-    Adam Jarret -- Developer & Writing -- @adamjarret
+    Christopher Chu -- Developer & Host -- @Incronaut
 
 # THANKS
     Thanks to all the open source developers whose work we were able to leverage while making this site
