@@ -1,4 +1,4 @@
-# Rubber Duck Cast
+# Incronaut
 
 Working on this repo requires [Ruby](https://www.ruby-lang.org/en/documentation/installation/), [Bundler](http://bundler.io/), [nodejs with npm](https://github.com/joyent/node/wiki/Installing-Node.js-via-package-manager) and [grunt-cli](http://gruntjs.com/getting-started).
 
