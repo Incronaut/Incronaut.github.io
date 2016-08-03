@@ -7,7 +7,7 @@ length: "30782483"
 short_description: "To The Moon Minisodes & Bird Story pt.2"
 link: http://episodes.incronaut.com/NPC+Talk+Ep033+2015-12-30.mp3
 segments: "Video Games, NPC Talk"
-tags: [videogames, video games, gaming, npc, talk, ,npc talk, npctalk]
+tags: [videogames, video games, gaming, npc, talk, npc talk, npctalk]
 comments: true
 ---
 

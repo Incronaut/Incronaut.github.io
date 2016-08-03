@@ -7,7 +7,7 @@ length: "35276918"
 short_description: "Blizzard ft. Jeremy and Kyle!"
 link: http://episodes.incronaut.com/NPC+Talk+Ep034+2016-01-23.mp3
 segments: "Video Games, NPC Talk"
-tags: [videogames, video games, gaming, npc, talk, ,npc talk, npctalk]
+tags: [videogames, video games, gaming, npc, talk, npc talk, npctalk]
 comments: true
 ---
 

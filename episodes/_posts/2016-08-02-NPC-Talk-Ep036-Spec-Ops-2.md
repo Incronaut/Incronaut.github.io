@@ -7,7 +7,7 @@ length: "30965251"
 short_description: "Spec Ops: The Line. Part 2."
 link: http://episodes.incronaut.com/NPC+Talk+Ep036+2016-08-02.mp3
 segments: "Video Games, NPC Talk"
-tags: [videogames, video games, gaming, npc, talk, ,npc talk, npctalk]
+tags: [videogames, video games, gaming, npc, talk, npc talk, npctalk]
 comments: true
 ---
 
