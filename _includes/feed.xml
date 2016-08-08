@@ -9,10 +9,10 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
      xmlns:media="http://search.yahoo.com/mrss/">
     <channel>
-        <title>{{site.title}}</title>
+        <title>NPC Talk</title>
         <atom:link href="{{site.base_url}}/feed.xml" rel="self" type="application/rss+xml" />
         <link>{{site.base_url}}</link>
-        <description>{{site.description}}</description>
+        <description>A podcast where fans come together to talk all things video games.</description>
         <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
         <sy:updatePeriod>hourly</sy:updatePeriod>
         <sy:updateFrequency>1</sy:updateFrequency>
