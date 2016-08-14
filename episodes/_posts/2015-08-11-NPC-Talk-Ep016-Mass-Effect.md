@@ -1,14 +1,14 @@
 ---
 layout: episode
-number: "031"
-title: "Underground Popularity. Meet the guest, Tim!"
+number: "016"
+title: "Mass Effect"
 duration: "1:43:36"
 length: "49730991"
-short_description: "Meet the guest, Tim"
+short_description: "Mass Effect"
 link: http://episodes.incronaut.com/NPC+Talk+Ep016+2015-08-11.mp3
 segments: "Video Games, NPC Talk"
 tags: [videogames, video games, gaming, npc, talk, npc talk, npctalk]
 comments: true
 ---
 
-Meet the guest, Tim! Top 3.
+Mass Effect

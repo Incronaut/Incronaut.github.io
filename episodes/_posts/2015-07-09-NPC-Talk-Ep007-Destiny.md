@@ -1,7 +1,7 @@
 ---
 layout: episode
-number: "031"
-title: "Underground Popularity. Meet the guest, Tim!"
+number: "007"
+title: "Destiny"
 duration: "1:43:36"
 length: "49730991"
 short_description: "Meet the guest, Tim"

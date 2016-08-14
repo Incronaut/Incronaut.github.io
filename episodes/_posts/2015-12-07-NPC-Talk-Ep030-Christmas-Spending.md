@@ -1,14 +1,14 @@
 ---
 layout: episode
-number: "031"
-title: "Underground Popularity. Meet the guest, Tim!"
+number: "030"
+title: "Christmas Shopping"
 duration: "1:43:36"
 length: "49730991"
-short_description: "Meet the guest, Tim"
+short_description: "Christmas Shopping"
 link: http://episodes.incronaut.com/NPC+Talk+Ep030+2015-12-07.mp3
 segments: "Video Games, NPC Talk"
 tags: [videogames, video games, gaming, npc, talk, npc talk, npctalk]
 comments: true
 ---
 
-Meet the guest, Tim! Top 3.
+Christmas Shopping
