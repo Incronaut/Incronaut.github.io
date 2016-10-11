@@ -1,6 +1,10 @@
-How to test:
-bundle exec jekyll serve
+1. How to CSS:
+   grunt CSS
+   //otherwise CSS won't go through
 
-this will bypass kramdown dependency problem.
+2. How to test:
+   bundle exec jekyll serve
 
-ctr+c to terminate batch job
+   //this will bypass kramdown dependency problem.
+
+   ctr+c to terminate batch job
