@@ -37,8 +37,8 @@ main_navigation:
   url: /about/
 - text: FAQ
   url: /faq/
-- text: Archive
-  url: /archive/
+- text: NPC Talk
+  url: /npc-talk/
 - text: The Hoac Block
   url: /the-hoac-block/
 
