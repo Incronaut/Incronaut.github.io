@@ -41,6 +41,8 @@ main_navigation:
   url: /npc-talk/
 - text: The Hoac Block
   url: /the-hoac-block/
+- text: The 420 Post
+  url: /the-420-post/
 
 feed_navigation:
 - text: iTunes
