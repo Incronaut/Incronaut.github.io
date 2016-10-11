@@ -39,6 +39,8 @@ main_navigation:
   url: /faq/
 - text: Archive
   url: /archive/
+- text: The Hoac Block
+  url: /the-hoac-block/
 
 feed_navigation:
 - text: iTunes
