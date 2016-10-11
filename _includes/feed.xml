@@ -35,7 +35,7 @@
         </itunes:owner>
         <itunes:block>no</itunes:block>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="{{site.base_url}}/img/logo_feed.png" />
+        <itunes:image href="{{site.base_url}}/img/logo.png" />
 
         {% for episode in site.categories.episodes %}
         <item>
