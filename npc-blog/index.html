@@ -11,8 +11,8 @@ layout: default
         <br/>
         {{blog.short_description}}
         <br/><br/>
-        <div class="icon-date"><strong>Date:</strong> <em>{{blog.date | date: "%-d %B %Y"}}</em></div>
         <div class="icon-author"><strong>Author:</strong> <em>{{blog.author}}</em></div>
+        <div class="icon-date"><strong>Date:</strong> <em>{{blog.date | date: "%-d %B %Y"}}</em></div>
         <!--<div class="icon-download"><strong>Download As:</strong> <a href="{{blog.aac_asset_link}}" class="download-link">AAC M4A</a>, <a href="{{blog.ogg_asset_link}}" class="download-link">OGG</a></div>--->
     </div>
     {% endfor %}
