@@ -2,7 +2,7 @@
 layout: blog
 number: "001"
 title: "My Life Can’t Be This Boring! (Strength)"
-short_description: "Short description here"
+short_description: "Saikyou Densetsu Kurosawa by Fukumoto Nobuyuki (FKMT)"
 ---
 
 Just to let you all know, I started working out on May 2015. Since then, I’ve been actively running every other day and doing some light exercises such as push ups, sit ups, and bench presses in my room. It is October 2016 now. So you must be thinking that I am pretty strong right?
