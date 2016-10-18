@@ -39,10 +39,12 @@ main_navigation:
   url: /faq/
 - text: NPC Talk
   url: /npc-talk/
-- text: The Hoac Block
-  url: /the-hoac-block/
-- text: The 420 Post
-  url: /the-420-post/
+- text: NPC Blog
+  url: /npc-blog/
+- text: Under The Rim
+  url: /under-the-rim/
+- text: Animetrics
+  url: /animetrics/
 
 feed_navigation:
 - text: iTunes
