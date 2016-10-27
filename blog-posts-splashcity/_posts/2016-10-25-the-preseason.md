@@ -32,6 +32,7 @@ The idontreallymindtoomuchasawarriorsfan: Barnes
 
 I watched 3 preseason games and 1 in person.  
 **Here's my take:**  
+
   1. KD will have no issues fitting in. Warriors players will need to adjust to look for him more. Barnes took about 10 shots per game last year (9 of which were *wide open*). Look for KD to continue his avg of 18-19 shots per game meaning guys like Draymond, Curry and even Klay will need to feed the SF more.  
   
   2. Zaza is no Bogut and it's not even close. The Warriors will have to win games by outscoring and outrunning their opponents. Klay will need to step up his rebounding game and the Warriors will need to collaspe inside and let the other team beat them by shooting those long range shots. Zaza needs to be comfortable not having the ball and not playing an active role on offense aside from rebounding and spacing. Team rebounding will be *key*.  
