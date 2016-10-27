@@ -11,7 +11,7 @@ The NBA season starts **today**. HYPE.
 
 But before we get there, there's somethings worth discussing about the current state of the Golden State Warriors. This will be my first annual PRESEASON predictions post.
 
-Last year the Warriors set a record for the most wins in an NBA season with 73-9. They were fresh off a championship season and kept the majority of their key players intact. This year, a lot of big personnel changes:  
+Last year the Warriors set a record for the most wins in a NBA season with 73-9. They were fresh off a championship season and kept the majority of their key players intact. This year, a lot of big personnel changes:  
   - Luke Walton leaves for a head coaching position to the Lakers and is replaced by Mike Brown.  
   - Harrison Barnes signs a 94m contract with the Dallas Mavs.  
   - Andrew Bogut also signs with the Mavs.  
