@@ -44,7 +44,7 @@ Playing on an illegally downloaded version (don’t worry, I bought it on steam 
 
 In those long years of playing Guilty Gear XX #Reload, I don’t think I ever regretted losing a single match. Not because I pitied myself, but there was always something to gain, whether it be a new strategy, refining a technique, or making a new friend. And so, to answer my previous question: “Was there any merit in losing?” Yes, there is always merit in losing. A hundred wins is worth less than a single win after a hundred losses. Because that one win symbolizes the rewarding triumph of all the effort painfully poured into climbing your own personal, arduous mountain.
 
-<img src="http://images.incronaut.com/gg-6.png" alt="gg-6" />
+<img src="http://images.incronaut.com/gg-6.jpg" alt="gg-6" />
 
 Importantly, the other major factor that kept me going was my initial love for the game. In a way, this blog post is my love letter to Guilty Gear. The detail attention to the sprites and 3D models, the carefully crafting of the system mechanics, the freeform combo-ing style, and the friends and rivals that I silently bonded with. I give my gratitude to this quirky, complex, and rocking video game and hold dear to my heart of the lessons that it taught me.
 
