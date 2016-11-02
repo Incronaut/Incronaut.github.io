@@ -1,6 +1,6 @@
 ---
 layout: blog
-number: "002"
+number: "003"
 title: "Heaven or hell"
 short_description: "Guilty Gear.  From tumblr blog: http://sugoikawaiimiyafuji420.tumblr.com/"
 author: vontrappfamily
