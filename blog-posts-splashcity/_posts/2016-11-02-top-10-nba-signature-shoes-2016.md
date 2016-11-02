@@ -48,7 +48,7 @@ I feel bad for DRose and I’m too scared to write anything that might jinx him.
 
 This shoe leaves me cold.  I’m sure that plenty of other homers will buy these shoes, but not this one.  Under Armour had it’s chance to capitalize on Curry’s success last season, but that (champion)ship has sailed.  Tough luck Under Armour!  Still not as bad as losing up 3-1 tho :(
 
-<p style='font-weight: bold;'>3.  Adidas Harden Vol. 1
+<p style='font-weight: bold;'>3.  Adidas Harden Vol. 1</p>
 
 <img alt="shoes-8" src="http://images.incronaut.com/SC3shoes-8.png" />
 
