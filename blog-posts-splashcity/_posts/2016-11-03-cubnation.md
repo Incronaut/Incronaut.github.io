@@ -16,28 +16,30 @@ The irony and karma in that statement is off the charts. But before we get there
 
 Cleveland, however, was relentless -- after scoring 1, Davis hits a 2 run HR to tie the game and the crowd went *nuts*. I couldn't believe it. "The curse is real." Heading into the 9th you could sense that this could be a comeback for the ages. The 9th inning was a suspenseful null score and the rain started coming down. A rain delay was called. Wow. And the Cubs come out of the 10th with 2 early scores with 3 runners left on base. The anxiety lasted until the final out as Cleveland scraps together 1 run but falters in the end. 
 
-*THE CUBS WIN THE WORLD SERIES 4 GAMES TO 3. *
+**THE CUBS WIN THE WORLD SERIES 4 GAMES TO 3.**  
 Screw you LeBron! Bring on the memes!
 
 God still hates Cleveland. 
 
 The rain delay crushed all Cleveland's momentum and allowed the Cubs to recuperate for their final two runs.
 
-<img alt="cub2" src="http://i.imgur.com/rOi5oSz.jpg" />
+<img alt="cub2" src="http://i.imgur.com/rOi5oSz.jpg" width="500"/>
 
 A few days ago, LeBron hosted a Halloween party where he mocked the Warriors for blowing a 3-1 lead in the NBA Finals. Karma.
 
-<img alt="cub3" src="http://i.imgur.com/9wTkXMC.jpg" />
+<img alt="cub3" src="http://i.imgur.com/kqX1KF8.jpg" width="300" />
 
 Not even 30 seconds after the game, Draymond tweets out "Man 3-1 sucks" as a response to not only LeBron but the Cleveland Indians blowing a 3-1 lead.
 
-<img alt="cub4" src="https://pbs.twimg.com/media/CwT-9X6XEAEfFXv.jpg" />
+<img alt="cub4" src="https://pbs.twimg.com/media/CwT-9X6XEAEfFXv.jpg" width="300" />
 
 The internet (reddit) goes wild. 2016 is the year of the 3-1s. Here are my favorites:
 
-<img alt="cub5" src="http://i.imgur.com/5UwH2cG.jpg" />  
+<img alt="cub5" src="http://i.imgur.com/5UwH2cG.jpg" width="500" />  
 
-<img alt="cub6" src="http://i.imgur.com/0qZ3RV7.jpg" />  
+<img alt="cub6" src="http://i.imgur.com/0qZ3RV7.jpg" width="250"/>  
+
+<img alt="cub8" src="http://i.imgur.com/ZGY0GOH.jpg" width="500"/>
 
 <img alt="cub7" src="http://i.imgur.com/QEQ0nzI.gifv" />  
 
