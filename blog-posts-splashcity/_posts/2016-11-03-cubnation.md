@@ -44,7 +44,7 @@ The internet (reddit) goes wild. 2016 is the year of the 3-1s. Here are my favor
 
 <img alt="cub8" src="http://images.incronaut.com/cub8.gif" />  
 
-That night the entire dubnation became cubnation. 
+That night the entire dubnation became cubnation. It's hard to describe what it feels like as a Warriors fan. It's therapeutic in a way, knowing that it's come full circle. The door for last year's finals has fully closed. As a salty Warriors fan, Cleveland winning would've opened up old wounds. So thanks Chicago. We needed it. More than you probably think.
 
 <div style="width: 250px; height: 350px; position: relative;"><iframe src="https://streamable.com/e/fsle" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen scrolling="no" style="width: 100%; height: 100%;"></iframe></div>
 
