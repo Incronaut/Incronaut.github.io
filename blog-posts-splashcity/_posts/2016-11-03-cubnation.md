@@ -5,8 +5,9 @@ title: "Year of the 3-1s"
 short_description: "The night the entire dubnation became cubnation."
 author: hawkzero
 ---
-
-<img alt="cub1" src="https://pbs.twimg.com/media/CwT9ygTW8AAQrmQ.jpg" />
+<div style="width: 100%; display: inline-block; text-align: center;">
+	<img alt="cub1" src="http://images.incronaut.com/cub1.jpg"/>
+</div>
 
 You're probably wondering why I'm writing about baseball in a basketball blog. Despite having no vested interest in either teams, last night I witnessed what has to be the most exciting baseball game to date. I know there are a lot of you basketball fans that don't watch baseball, don't care about baseball and don't want to read about baseball but hear me out: THE CLEVELAND INDIANS BLEW A 3-1 LEAD AGAINST THE CUBS IN THE WORLD SERIES. Sound familar?
 
@@ -21,31 +22,31 @@ Screw you LeBron!
 
 ###Bring on the memes!
 
-God __still__ hates Cleveland. The rain delay crushed all Cleveland's momentum and allowed the Cubs to recuperate for their final two runs.
+God <u>still</u> hates Cleveland. The rain delay crushed all Cleveland's momentum and allowed the Cubs to recuperate for their final two runs.
 
-<img alt="cub2" src="http://i.imgur.com/rOi5oSz.jpg" width="500"/>
+<img alt="cub2" src="http://images.incronaut.com/cub2.jpg" width="500"/>
 
 A few days ago, LeBron hosted a Halloween party where he mocked the Warriors for blowing a 3-1 lead in the NBA Finals. Karma.
 
-<img alt="cub3" src="http://i.imgur.com/kqX1KF8.jpg" width="300" />
+<img alt="cub3" src="http://images.incronaut.com/cub3.jpg" width="300" />
 
 Not even 30 seconds after the game, Draymond tweets out "Man 3-1 sucks".
 
-<img alt="cub4" src="https://pbs.twimg.com/media/CwT-9X6XEAEfFXv.jpg" width="300" />
+<img alt="cub4" src="http://images.incronaut.com/cub4.jpg" width="300" />
 
 The internet (reddit) goes wild. 2016 is the year of the 3-1s. Here are my favorites:
 
-<img alt="cub5" src="http://i.imgur.com/5UwH2cG.jpg" width="500" />  
+<img alt="cub5" src="http://images.incronaut.com/cub5.jpg" width="500" />  
 
-<img alt="cub6" src="http://i.imgur.com/0qZ3RV7.jpg" width="250"/>  
+<img alt="cub6" src="http://images.incronaut.com/cub6.jpg" width="250"/>  
 
-<img alt="cub8" src="http://i.imgur.com/ZGY0GOH.jpg" width="500"/>
+<img alt="cub7" src="http://images.incronaut.com/cub7.jpg" width="500"/>
 
-<img alt="cub7" src="http://i.imgur.com/QEQ0nzI.gifv" />  
+<img alt="cub8" src="http://images.incronaut.com/cub8.gif" />  
 
 That night the entire dubnation became cubnation. 
 
-<div style="width: 100%; height: 0px; position: relative; padding-bottom: 100.000%;"><iframe src="https://streamable.com/e/fsle" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen scrolling="no" style="width: 100%; height: 100%; position: absolute;"></iframe></div>
+<div style="width: 250px; height: 350px; position: relative;"><iframe src="https://streamable.com/e/fsle" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen scrolling="no" style="width: 100%; height: 100%;"></iframe></div>
 
 Now let's all bask in the glory of this amazing video:
 
