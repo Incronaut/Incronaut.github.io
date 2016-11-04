@@ -21,7 +21,7 @@ Screw you LeBron!
 
 ###Bring on the memes!
 
-God still hates Cleveland. The rain delay crushed all Cleveland's momentum and allowed the Cubs to recuperate for their final two runs.
+God __still__ hates Cleveland. The rain delay crushed all Cleveland's momentum and allowed the Cubs to recuperate for their final two runs.
 
 <img alt="cub2" src="http://i.imgur.com/rOi5oSz.jpg" width="500"/>
 
@@ -29,7 +29,7 @@ A few days ago, LeBron hosted a Halloween party where he mocked the Warriors for
 
 <img alt="cub3" src="http://i.imgur.com/kqX1KF8.jpg" width="300" />
 
-Not even 30 seconds after the game, Draymond tweets out "Man 3-1 sucks" as a response to not only LeBron but the Cleveland Indians blowing a 3-1 lead.
+Not even 30 seconds after the game, Draymond tweets out "Man 3-1 sucks".
 
 <img alt="cub4" src="https://pbs.twimg.com/media/CwT-9X6XEAEfFXv.jpg" width="300" />
 
