@@ -6,7 +6,7 @@ short_description: "The night the entire dubnation became cubnation."
 author: hawkzero
 ---
 
-<center><img alt="cub1" src="https://pbs.twimg.com/media/CwT9ygTW8AAQrmQ.jpg" /center>
+<center><img alt="cub1" src="https://pbs.twimg.com/media/CwT9ygTW8AAQrmQ.jpg" </center>
 
 You're probably wondering why I'm writing about baseball in a basketball blog. Despite having no vested interest in either teams, last night I witnessed what has to be the most exciting baseball game to date. I know there are a lot of you basketball fans that don't watch baseball, don't care about baseball and don't want to read about baseball but hear me out: THE CLEVELAND INDIANS BLEW A 3-1 LEAD AGAINST THE CUBS IN THE WORLD SERIES. Sound familar?
 
