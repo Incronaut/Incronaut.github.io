@@ -17,11 +17,11 @@ The irony and karma in that statement is off the charts. But before we get there
 Cleveland, however, was relentless -- after scoring 1, Davis hits a 2 run HR to tie the game and the crowd went *nuts*. I couldn't believe it. "The curse is real." Heading into the 9th you could sense that this could be a comeback for the ages. The 9th inning was a suspenseful null score and the rain started coming down. A rain delay was called. Wow. And the Cubs come out of the 10th with 2 early scores with 3 runners left on base. The anxiety lasted until the final out as Cleveland scraps together 1 run but falters in the end. 
 
 **THE CUBS WIN THE WORLD SERIES 4 GAMES TO 3.**  
-Screw you LeBron! Bring on the memes!
+Screw you LeBron!  
 
-God still hates Cleveland. 
+###Bring on the memes!
 
-The rain delay crushed all Cleveland's momentum and allowed the Cubs to recuperate for their final two runs.
+God still hates Cleveland. The rain delay crushed all Cleveland's momentum and allowed the Cubs to recuperate for their final two runs.
 
 <img alt="cub2" src="http://i.imgur.com/rOi5oSz.jpg" width="500"/>
 
