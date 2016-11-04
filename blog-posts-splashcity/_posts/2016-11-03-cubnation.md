@@ -8,7 +8,7 @@ author: hawkzero
 
 <center><img alt="cub1" src="https://pbs.twimg.com/media/CwT9ygTW8AAQrmQ.jpg" /center>
 
-Your probably wondering why I'm writing about baseball in a basketball blog. Despite having no vested interest in either teams, last night I witnessed what has to be the most exciting baseball game to date. I know there are a lot of you basketball fans that don't watch baseball, don't care about baseball and don't want to read about baseball but hear me out: THE CLEVELAND INDIANS BLEW A 3-1 LEAD AGAINST THE CUBS IN THE WORLD SERIES. Sound familar?
+You're probably wondering why I'm writing about baseball in a basketball blog. Despite having no vested interest in either teams, last night I witnessed what has to be the most exciting baseball game to date. I know there are a lot of you basketball fans that don't watch baseball, don't care about baseball and don't want to read about baseball but hear me out: THE CLEVELAND INDIANS BLEW A 3-1 LEAD AGAINST THE CUBS IN THE WORLD SERIES. Sound familar?
 
 The irony and karma in that statement is off the charts. But before we get there, let me set the stage. This is game 7 of the MLB World Series. The Chicago Cubs vs the Cleveland Indians. The Cubs haven't won a World Series in the past 108 years --the curse. And the Cleveland drought is 78 years and counting. The stakes were high for Cleveland going into this game, they had a 3-1 lead, the game was at home in Cleveland and the championship champagne the Cavs had brought had started to run dry. #Believelandpart2?The ballgame was movie-esque. The Cubs opened the game with a leadoff home run and built their momentum early on. During the 8th inning, Chicago was up 6-3 and at that point everyone figured the game was in the bag. 
 
