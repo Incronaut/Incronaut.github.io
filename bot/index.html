@@ -3,8 +3,15 @@
 </head>
 
 <script>
-$.get( "ajax/test.html", function( data ) {
+$.get( "https://slack.com/api/GET", function( data ) {
   $( ".result" ).html( data );
   alert( "Load was performed." );
+});
+
+$.ajax({
+  url: "https://slack.com/api/GET",
+  data: data,
+  success: success,
+  dataType: dataType
 });
 </script>
