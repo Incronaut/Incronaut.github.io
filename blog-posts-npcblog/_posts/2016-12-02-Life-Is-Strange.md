@@ -6,7 +6,7 @@ short_description: "Life Is Strange, And The Problem With Long Running Stories"
 author: timtalks
 ---
 
-Preface: This article contains major spoilers for the episodic game series "Life Is Strange", and it is recommended to have played the game before reading ahead.
+<strong>Preface: This article contains major spoilers for the episodic game series "Life Is Strange", and it is recommended to have played the game before reading ahead.</strong>
 
 
 <img src="http://images.incronaut.com/lis-4.jpg" alt="lis-4" width="500" />
@@ -17,7 +17,7 @@ Life Is Strange, though, ran into pitfalls with its mystery plot. It turns out t
 
 <img src="http://images.incronaut.com/lis-3.jpg" alt="lis-3" width="500" />
 
---The longer the wait, the wilder the imagination--
+<strong>--The longer the wait, the wilder the imagination--</strong>
 
 LiS (Life Is Strange) released in 5 solid episodes over the course of a year starting with Episode 1 on January 30, 2015, and finally ending with Episode 5 being released on October 20th that same year.
 
@@ -31,7 +31,7 @@ So here's the problem. Many people had to wait 10 months to get their questions 
 
 <img src="http://images.incronaut.com/lis-2.jpg" alt="lis-2" width="500" />
 
---When the conclusion is written before the body--
+<strong>--When the conclusion is written before the body--</strong>
 
 Sometimes, as an author you want to write a story such that you can "prove" you had planned ahead. That you didn't just make it all up as you went. Perhaps as an author you might think that the audience will truly appreciate your story as long as it comes full circle in the end. But it's a tragedy to become stuck in this line of thinking, just as LiS did.
 
@@ -47,7 +47,7 @@ After being played out, the story could have had plenty of other more surprising
 
 <img src="http://images.incronaut.com/lis-5.jpg" alt="lis-5" width="500" />
 
---Deadlines and Budgets--
+<strong>--Deadlines and Budgets--</strong>
 
 We finally reach what I believe to ultimately be the true problem with any long-running story such as that in Life Is Strange. It's a two-fold issue that boils down to one in the end: time and money - the amount of money you have dictates the amount of time you have. It's pretty straightforward here. The more money you spend on a project, the more time your staff has to make it perfect. But nobody has infinite time or money.
 
@@ -65,7 +65,7 @@ This doesn't stop at LiS or MGSV either. Everywhere you go you can see evidence 
 
 <img src="http://images.incronaut.com/lis-1.jpg" alt="lis-1" width="500" />
 
---Conclusion--
+<strong>--Conclusion--</strong>
 
 As I mentioned in the beginning this isn't an issue strictly for video games. Any medium really, typically an ongoing series of something that doesn't *require* a solid ending, will tend to skew toward not having that solid ending. Budget is always a problem, but even if the budget exists, you still will run into the problem of invoking someone's wild imagination and being unable to match their expectations.
 
