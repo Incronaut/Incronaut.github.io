@@ -9,12 +9,14 @@ author: timtalks
 Preface: This article contains major spoilers for the episodic game series "Life Is Strange", and it is recommended to have played the game before reading ahead.
 
 
-<img src="http://images.incronaut.com/lis-1.jpg" alt="lis-1" width="500" />
+<img src="http://images.incronaut.com/lis-4.jpg" alt="lis-4" width="500" />
+
 We've all been there. You read a book, watch a TV show, or play a game, and there's something about it that captures your imagination. You can't stop. You binge on it for several hours in a row to express your curiosity for the rest of the story. This happened to me when I started playing the episodic story-driven game Life Is Strange.
 
 Life Is Strange, though, ran into pitfalls with its mystery plot. It turns out that one of the oldest "tricks" in the book to capture your imagination, so to speak, is the withholding of information. If you cut away to a mysterious man speaking in the shadows or present an inexplicable phenomenon, your curiosity as a viewer is piqued. There's nothing inherently wrong with this style of storytelling even if it can at times seem formulaic. However, when it comes to long-running plots like that in Life Is Strange, there are going to inevitably be issues.
 
 <img src="http://images.incronaut.com/lis-2.jpg" alt="lis-2" width="500" />
+
 --The longer the wait, the wilder the imagination--
 
 LiS (Life Is Strange) released in 5 solid episodes over the course of a year starting with Episode 1 on January 30, 2015, and finally ending with Episode 5 being released on October 20th that same year.
@@ -28,6 +30,7 @@ With a two month wait between every episode, the suspense can kill you. Fortunat
 So here's the problem. Many people had to wait 10 months to get their questions answered. I myself only had to wait a few weeks, but I already had so many wild theories for how the story would play out. My favorite personal theory was that perhaps something inevitably tragic would happen to Chloe, and Rachel Amber was going to be revealed to be Max going back in time posing as a new girl so that she could regain all the years she lost with Chloe. I thought of this because Rachel seemed to disappear right before your character Max comes along, and also people reference often that you look like Rachel and are her size. After reading online I discovered there were also tons of wild and interesting fan theories for how the game would end, even silly ones like that Alyssa (the girl who you save from several accidents) is also a time traveller who puts herself into situations where she'll be hurt because she is testing to see if you are also a time traveller. But the true ending - naturally - was disappointing. My ideas were so grand at that point that there was no way the ending would ever satisfy me. To me, the climax boiling down to just that the teacher was the only bad guy and that there is a storm coming and that you must choose to save Chloe or save the town, was all too "easy" for a writer to settle on. It didn't feel nearly as creative as all of the cool or interesting mysteries *they themselves* presented but didn't conclude and simply ignored.
 
 <img src="http://images.incronaut.com/lis-3.jpg" alt="lis-3" width="500" />
+
 --When the conclusion is written before the body--
 
 Sometimes, as an author you want to write a story such that you can "prove" you had planned ahead. That you didn't just make it all up as you went. Perhaps as an author you might think that the audience will truly appreciate your story as long as it comes full circle in the end. But it's a tragedy to become stuck in this line of thinking, just as LiS did.
@@ -42,7 +45,8 @@ All of this is to say that the authors intended for you, from the beginning, to 
 
 After being played out, the story could have had plenty of other more surprising or more interesting endings, but the authors were not flexible enough to change their plans for the way things ended. And I suppose I'm not saying that they *should* have fixed it because I do concede that it would have been very difficult to pull off. It's just that in the end, this is just something that's a very potential pitfall when you have a long story like this in which the ending is written first. And even if they had wanted to change it, it was most likely too late considering all of the development that goes into a game. Which brings me to my final discussion point.
 
-<img src="http://images.incronaut.com/lis-4.jpg" alt="lis-4" width="500" />
+<img src="http://images.incronaut.com/lis-1.jpg" alt="lis-1" width="500" />
+
 --Deadlines and Budgets--
 
 We finally reach what I believe to ultimately be the true problem with any long-running story such as that in Life Is Strange. It's a two-fold issue that boils down to one in the end: time and money - the amount of money you have dictates the amount of time you have. It's pretty straightforward here. The more money you spend on a project, the more time your staff has to make it perfect. But nobody has infinite time or money.
@@ -60,6 +64,7 @@ With any franchise or project with a long story you're always going to run into 
 This doesn't stop at LiS or MGSV either. Everywhere you go you can see evidence of this. Free-to-play games for mobile devices which spend hundreds of thousands of dollars on just making sure that you have a good first impression of the game despite not providing any truly satisfying gameplay or ending. Similarly, the original Assassin's Creed trilogy (as a whole), Grand Theft Auto games, Elder Scrolls games, Mass Effect 3, and even the Witcher 3 (which I do love overall) are all large games which suffer in some form from this disease of not having a satisfying ending.
 
 <img src="http://images.incronaut.com/lis-5.jpg" alt="lis-5" width="500" />
+
 --Conclusion--
 
 As I mentioned in the beginning this isn't an issue strictly for video games. Any medium really, typically an ongoing series of something that doesn't *require* a solid ending, will tend to skew toward not having that solid ending. Budget is always a problem, but even if the budget exists, you still will run into the problem of invoking someone's wild imagination and being unable to match their expectations.
