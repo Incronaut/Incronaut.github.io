@@ -1,0 +1,23 @@
+{
+  "name": "kitchenDutyBot",
+  "version": "0.1.1",
+  "description": "A slack API for kitchen duty",
+  "main": "app.js",
+  "dependencies": {
+    "express": "4.15.2",
+    "body-parser": "^1.x.x",
+    "request": "2.56.x",
+    "ejs": "2.5.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heroku/slack-kd"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT",
+  "author": "Incronaut"
+}
