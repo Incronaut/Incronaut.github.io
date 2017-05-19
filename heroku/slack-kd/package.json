@@ -6,8 +6,7 @@
   "dependencies": {
     "express": "4.15.2",
     "body-parser": "^1.x.x",
-    "request": "2.56.x",
-    "ejs": "2.5.6"
+    "request": "2.56.x"
   },
   "repository": {
     "type": "git",
