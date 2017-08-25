@@ -1,6 +1,7 @@
 var express = require('express')
 var request = require('request')
 var bodyParser = require('body-parser')
+var fs = require('fs')
 var app = express()
 app.set('port', (process.env.PORT || 1337))
 var urlencodedParser = bodyParser.urlencoded({ extended: false })
@@ -19,8 +20,12 @@ var globalFlag = [
 ]
 
 var globalName = [
-	'',
-	'',
+	get_line('/roster.txt', 1, function(err, line){
+        line;
+    }),
+	get_line('/roster.txt', 2, function(err, line){
+        line;
+    }),
 	'',
 	'',
 	'',
@@ -30,6 +35,24 @@ var globalName = [
 	'',
 	''
 ]
+
+function get_line(roster, line_no, callback) {
+    fs.readFile(roster, function (err, data) {
+      if (err) throw err;
+
+      // Data is a buffer that we need to convert to a string
+      // Improvement: loop over the buffer and stop when the line is reached
+      var lines = data.toString('utf-8').split("\n");
+
+      if(+line_no > lines.length){
+        return callback('File end reached without finding line', null);
+      }
+
+      callback(null, lines[+line_no]);
+    });
+};
+
+
 
 var days = {
 	"list": [
@@ -58,7 +81,7 @@ app.post('/kitchenduty/main', urlencodedParser, (req, res) =>{
     res.status(200).end() // best practice to respond with empty 200 status code
     var reqBody = req.body
     var responseURL = reqBody.response_url
-    if (reqBody.token != 'dFXgwFzzzFk8wQBXE4cEBDDp'){
+    if (reqBody.token != 'BQEb6aaG1KU9h0MGRqXAqHAw'){
         res.status(403).end("Access forbidden")
     }else{
     	for(var x = 0; x < 10; x++){
