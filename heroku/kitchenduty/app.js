@@ -19,13 +19,13 @@ var globalFlag = [
 	false
 ]
 
+get_line('/roster.txt', 1, function(err, line){
+        line;
+    });
+
 var globalName = [
-	get_line('/roster.txt', 1, function(err, line){
-        line;
-    }),
-	get_line('/roster.txt', 2, function(err, line){
-        line;
-    }),
+	'',
+	'',
 	'',
 	'',
 	'',
