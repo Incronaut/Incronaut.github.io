@@ -1,0 +1,8 @@
+How to work with Heroku:
+
+1. Login: heroku login.  incronaut@gmail /// qwe
+2. Make sure the git zip file is unzipped.
+3. Push: git push heroku master
+4. Check Logs: heroku logs
+
+5. Once done with heroku, zip up the git file and then go to heroku level directory and push everything to incronaut repo

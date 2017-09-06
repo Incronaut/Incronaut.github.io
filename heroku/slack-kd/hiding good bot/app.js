@@ -19,10 +19,13 @@ var globalFlag = [
 	false
 ]
 
-
 var globalName = [
-	'',
-	'',
+	get_line('/roster.txt', 1, function(err, line){
+        line;
+    }),
+	get_line('/roster.txt', 2, function(err, line){
+        line;
+    }),
 	'',
 	'',
 	'',
@@ -33,7 +36,7 @@ var globalName = [
 	''
 ]
 
-/*function get_line(roster, line_no, callback) {
+function get_line(roster, line_no, callback) {
     fs.readFile(roster, function (err, data) {
       if (err) throw err;
 
@@ -48,10 +51,7 @@ var globalName = [
       callback(null, lines[+line_no]);
     });
 };
-get_line('/roster.txt', 1, function(err, line){
-        line;
-    });
-*/
+
 
 
 var days = {
