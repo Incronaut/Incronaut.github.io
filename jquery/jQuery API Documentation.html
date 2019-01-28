@@ -208,12 +208,12 @@
 <script>
 	function foo () {
 	  var name = document.formxml.xmlname.value;
-	  alert(name);
+	  document.getElementById("youtube-iframe").src = name;
 	}
 </script>
 
-<iframe width="800" height="600"
-	src="document.getElementById('xmlname').value">
+<iframe width="800" height="600" id="youtube-iframe"
+	src="">
 </iframe>
 <article id="post-15" class="post-15 post type-post status-publish format-standard hentry category-global-ajax-event-handlers category-65">
 	<header class="entry-header">
