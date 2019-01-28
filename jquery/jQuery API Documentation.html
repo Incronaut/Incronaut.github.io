@@ -201,8 +201,19 @@
 		<p>Register a handler to be called when Ajax requests complete. This is an AjaxEvent.</p>
 	</div><!-- .entry-summary -->
 </article>
+<form action="" method="post" name="formxml">
+  <input type="text" name="xmlname" value="123" id="xmlname">
+  <input type="button" onclick="foo();">
+</form>
+<script>
+	function foo () {
+	  var name = document.formxml.xmlname.value;
+	  alert(name);
+	}
+</script>
+
 <iframe width="800" height="600"
-src="https://www.youtube.com/">
+	src="document.getElementById('xmlname').value">
 </iframe>
 <article id="post-15" class="post-15 post type-post status-publish format-standard hentry category-global-ajax-event-handlers category-65">
 	<header class="entry-header">
