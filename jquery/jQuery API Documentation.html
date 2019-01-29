@@ -212,6 +212,7 @@
 	function TTVinput () {
 	    var type = document.TTVformxml.TTVtypename.value;
 	    var TTVid = document.TTVformxml.TTVidname.value;
+	    var TTVchat = document.TTVformxml.TTVchat
 		if(type === "video"){
 		    new Twitch.Embed("twitch-embed", {
 		  		width: 800,
@@ -223,15 +224,25 @@
 		    new Twitch.Embed("twitch-embed", {
 		  		width: 800,
 				height: 600,
-				video: TTVid
+				collection: TTVid
 			});
 		}
 		else{
-		    new Twitch.Embed("twitch-embed", {
-		  		width: 800,
-				height: 600,
-				video: TTVid
-			});
+			if(document.getElementById('noChat').checked){
+			    new Twitch.Embed("twitch-embed", {
+			  		width: 800,
+					height: 600,
+					channel: TTVid
+					layout: video
+				});
+			}
+			else{
+				new Twitch.Embed("twitch-embed", {
+			  		width: 800,
+					height: 600,
+					channel: TTVid
+				});
+			}
 		}
 	}
 
@@ -279,6 +290,11 @@
 	  	2. ID of Type
 	  	<br/>
 	  <input type="text" name="TTVidname" value="" id="TTVidname">
+	  <br/>
+	  Chat? (Livestream only)
+	  <br/>
+	  <input type="radio" name="TTVradio" value="video-with-chat" id="yesChat">Yes</input>
+	  <input type="radio" name="TTVradio" value="video" id="noChat" checked>No</input>
 	  <input type="button" onclick="TTVinput();">
 	</form>
 	<div id="twitch-embed"></div>
