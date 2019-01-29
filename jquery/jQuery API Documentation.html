@@ -202,38 +202,11 @@
 	</div><!-- .entry-summary -->
 </article>
 <!-- Load the Twitch embed script -->
-<script src="https://embed.twitch.tv/embed/v1.js"></script>
+
 <script>
 	function foo () {
 	  var name = document.formxml.xmlname.value;
 	  document.getElementById("youtube-iframe").src = name;
-	}
-
-	function TTVinput () {
-	    var type = document.TTVformxml.TTVtypename.value;
-	    var TTVid = document.TTVformxml.TTVidname.value;
-		if(type === "video"){
-		    var options = {
-		  		width: 800,
-				height: 600,
-				video: TTVid
-			}
-		}
-		else if(type === "collection"){
-		    var options = {
-		  		width: 800,
-				height: 600,
-				collection: TTVid
-			}
-		}
-		else{
-		    var options = {
-		  		width: 800,
-				height: 600,
-				channel: TTVid
-			}
-		}
-		var player = new Twitch.Player("twitch-embed", options);
 	}
 
 	function YTButtonPress() {
@@ -272,8 +245,36 @@
   <input type="text" name="TTVidname" value="" id="TTVidname">
   <input type="button" onclick="TTVinput();">
 </form>
-<div id="twitch-embed">
-</div>
+<script src="https://embed.twitch.tv/embed/v1.js"></script>
+<div id="twitch-embed"></div>
+<script>
+	function TTVinput () {
+	    var type = document.TTVformxml.TTVtypename.value;
+	    var TTVid = document.TTVformxml.TTVidname.value;
+		if(type === "video"){
+		    var options = {
+		  		width: 800,
+				height: 600,
+				video: TTVid
+			}
+		}
+		else if(type === "collection"){
+		    var options = {
+		  		width: 800,
+				height: 600,
+				collection: TTVid
+			}
+		}
+		else{
+		    var options = {
+		  		width: 800,
+				height: 600,
+				channel: TTVid
+			}
+		}
+		var player = new Twitch.Player("twitch-embed", options);
+	}
+</script>
 
 
 <article id="post-15" class="post-15 post type-post status-publish format-standard hentry category-global-ajax-event-handlers category-65">
