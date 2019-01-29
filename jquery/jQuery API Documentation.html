@@ -223,14 +223,14 @@
 		    new Twitch.Embed("twitch-embed", {
 		  		width: 800,
 				height: 600,
-				collection: TTVid
+				video: TTVid
 			});
 		}
 		else{
 		    new Twitch.Embed("twitch-embed", {
 		  		width: 800,
 				height: 600,
-				channel: TTVid
+				video: TTVid
 			});
 		}
 	}
@@ -277,6 +277,7 @@
 	  <input type="text" name="TTVtypename" value="" id="TTVtypename">
 	  <br/>
 	  	2. ID of Type
+	  	<br/>
 	  <input type="text" name="TTVidname" value="" id="TTVidname">
 	  <input type="button" onclick="TTVinput();">
 	</form>
