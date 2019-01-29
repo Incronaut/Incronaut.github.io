@@ -202,7 +202,7 @@
 	</div><!-- .entry-summary -->
 </article>
 <!-- Load the Twitch embed script -->
-
+<script src="https://embed.twitch.tv/embed/v1.js"></script>
 <script>
 	function foo () {
 	  var name = document.formxml.xmlname.value;
@@ -226,28 +226,7 @@
 	    x.style.display = "none";
 	  }
 	}
-</script>
 
-
-<button onclick="YTButtonPress()">YT iframe</button>
-<form action="" method="post" name="formxml">
-  <input type="text" name="xmlname" value="" id="xmlname">
-  <input type="button" onclick="foo();">
-</form>
-<iframe width="800" height="600" id="youtube-iframe" frameborder="0" scrolling="no" allowfullscreen="true"
-	src="">
-</iframe>
-
-<button onclick="TTVButtonPress()">TTV iframe</button>
-<!-- Add a placeholder for the Twitch embed -->
-<form action="" method="post" name="TTVformxml">
-  <input type="text" name="TTVtypename" value="" id="TTVtypename">
-  <input type="text" name="TTVidname" value="" id="TTVidname">
-  <input type="button" onclick="TTVinput();">
-</form>
-<script src="https://embed.twitch.tv/embed/v1.js"></script>
-<div id="twitch-embed"></div>
-<script>
 	function TTVinput () {
 	    var type = document.TTVformxml.TTVtypename.value;
 	    var TTVid = document.TTVformxml.TTVidname.value;
@@ -274,6 +253,25 @@
 		}
 	}
 </script>
+
+
+<button onclick="YTButtonPress()">YT iframe</button>
+<form action="" method="post" name="formxml">
+  <input type="text" name="xmlname" value="" id="xmlname">
+  <input type="button" onclick="foo();">
+</form>
+<iframe width="800" height="600" id="youtube-iframe" frameborder="0" scrolling="no" allowfullscreen="true"
+	src="">
+</iframe>
+
+<button onclick="TTVButtonPress()">TTV iframe</button>
+<!-- Add a placeholder for the Twitch embed -->
+<form action="" method="post" name="TTVformxml">
+  <input type="text" name="TTVtypename" value="" id="TTVtypename">
+  <input type="text" name="TTVidname" value="" id="TTVidname">
+  <input type="button" onclick="TTVinput();">
+</form>
+<div id="twitch-embed"></div>
 
 
 <article id="post-15" class="post-15 post type-post status-publish format-standard hentry category-global-ajax-event-handlers category-65">
