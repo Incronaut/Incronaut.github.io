@@ -209,14 +209,30 @@
 	}
 
 	function TTVinput () {
-	  var type = document.TTVformxml.TTVtypename.value;
-	  var TTVid = document.TTVformxml.TTVidname.value;
-
-	  new Twitch.Embed("twitch-embed", {
-		width: 800,
-		height: 600
-		});
-	  Object.assign(twitch-embed, {type: TTVid});
+	    var type = document.TTVformxml.TTVtypename.value;
+	    var TTVid = document.TTVformxml.TTVidname.value;
+		if(type === "video"){
+		    var options = {
+		  		width: 800,
+				height: 600,
+				video: TTVid
+			}
+		}
+		else if(type === "collection"){
+		    var options = {
+		  		width: 800,
+				height: 600,
+				collection: TTVid
+			}
+		}
+		else{
+		    var options = {
+		  		width: 800,
+				height: 600,
+				channel: TTVid
+			}
+		}
+		var player = new Twitch.Player("twitch-embed", options);
 	}
 
 	function YTButtonPress() {
@@ -250,12 +266,12 @@
 
 <button onclick="TTVButtonPress()">TTV iframe</button>
 <!-- Add a placeholder for the Twitch embed -->
+<form action="" method="post" name="TTVformxml">
+  <input type="text" name="TTVtypename" value="" id="TTVtypename">
+  <input type="text" name="TTVidname" value="" id="TTVidname">
+  <input type="button" onclick="TTVinput();">
+</form>
 <div id="twitch-embed">
-	<form action="" method="post" name="TTVformxml">
-	  <input type="text" name="TTVtypename" value="" id="TTVtypename">
-	  <input type="text" name="TTVidname" value="" id="TTVidname">
-	  <input type="button" onclick="TTVinput();">
-	</form>
 </div>
 <!-- Load the Twitch embed script -->
 <script src="https://embed.twitch.tv/embed/v1.js"></script>
