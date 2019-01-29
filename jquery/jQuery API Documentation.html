@@ -209,6 +209,32 @@
 	  document.getElementById("youtube-iframe").src = name;
 	}
 
+	function TTVinput () {
+	    var type = document.TTVformxml.TTVtypename.value;
+	    var TTVid = document.TTVformxml.TTVidname.value;
+		if(type === "video"){
+		    new Twitch.Embed("twitch-embed", {
+		  		width: 800,
+				height: 600,
+				video: TTVid
+			});
+		}
+		else if(type === "collection"){
+		    new Twitch.Embed("twitch-embed", {
+		  		width: 800,
+				height: 600,
+				collection: TTVid
+			});
+		}
+		else{
+		    new Twitch.Embed("twitch-embed", {
+		  		width: 800,
+				height: 600,
+				channel: TTVid
+			});
+		}
+	}
+
 	function YTButtonPress() {
 	  var x = document.getElementById("youtube-iframe");
 	  if (x.style.display === "none") {
@@ -227,31 +253,7 @@
 	  }
 	}
 
-	function TTVinput () {
-	    var type = document.TTVformxml.TTVtypename.value;
-	    var TTVid = document.TTVformxml.TTVidname.value;
-		if(type === "video"){
-		    new Twitch.Embed("twitch-embed", {
-		  		width: 800,
-				height: 600,
-				video: TTVid
-			}
-		}
-		else if(type === "collection"){
-		    new Twitch.Embed("twitch-embed", {
-		  		width: 800,
-				height: 600,
-				collection: TTVid
-			}
-		}
-		else{
-		    new Twitch.Embed("twitch-embed", {
-		  		width: 800,
-				height: 600,
-				channel: TTVid
-			}
-		}
-	}
+	
 </script>
 
 
@@ -272,7 +274,6 @@
   <input type="button" onclick="TTVinput();">
 </form>
 <div id="twitch-embed"></div>
-<p>is it defined yet</p>
 
 <article id="post-15" class="post-15 post type-post status-publish format-standard hentry category-global-ajax-event-handlers category-65">
 	<header class="entry-header">
