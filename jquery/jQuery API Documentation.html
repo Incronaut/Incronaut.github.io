@@ -252,27 +252,26 @@
 	    var type = document.TTVformxml.TTVtypename.value;
 	    var TTVid = document.TTVformxml.TTVidname.value;
 		if(type === "video"){
-		    var options = {
+		    new Twitch.Embed("twitch-embed", {
 		  		width: 800,
 				height: 600,
 				video: TTVid
 			}
 		}
 		else if(type === "collection"){
-		    var options = {
+		    new Twitch.Embed("twitch-embed", {
 		  		width: 800,
 				height: 600,
 				collection: TTVid
 			}
 		}
 		else{
-		    var options = {
+		    new Twitch.Embed("twitch-embed", {
 		  		width: 800,
 				height: 600,
 				channel: TTVid
 			}
 		}
-		var player = new Twitch.Player("twitch-embed", options);
 	}
 </script>
 
