@@ -236,7 +236,7 @@
 	}
 
 	function YTButtonPress() {
-	  var x = document.getElementById("youtube-iframe");
+	  var x = document.getElementById("youtube-div");
 	  if (x.style.display === "none") {
 	    x.style.display = "block";
 	  } else {
@@ -245,7 +245,7 @@
 	}
 
 	function TTVButtonPress() {
-	  var x = document.getElementById("twitch-embed");
+	  var x = document.getElementById("twitch-div");
 	  if (x.style.display === "none") {
 	    x.style.display = "block";
 	  } else {
@@ -258,22 +258,26 @@
 
 
 <button onclick="YTButtonPress()">YT iframe</button>
-<form action="" method="post" name="formxml">
-  <input type="text" name="xmlname" value="" id="xmlname">
-  <input type="button" onclick="foo();">
-</form>
-<iframe width="800" height="600" id="youtube-iframe" frameborder="0" scrolling="no" allowfullscreen="true"
-	src="">
-</iframe>
+<div id="youtube-div" style="display: none;">
+	<form action="" method="post" name="formxml">
+	  <input type="text" name="xmlname" value="" id="xmlname">
+	  <input type="button" onclick="foo();">
+	</form>
+	<iframe width="800" height="600" id="youtube-iframe" frameborder="0" scrolling="no" allowfullscreen="true"
+		src="">
+	</iframe>
+</div>
 
 <button onclick="TTVButtonPress()">TTV iframe</button>
 <!-- Add a placeholder for the Twitch embed -->
-<form action="" method="post" name="TTVformxml">
-  <input type="text" name="TTVtypename" value="" id="TTVtypename">
-  <input type="text" name="TTVidname" value="" id="TTVidname">
-  <input type="button" onclick="TTVinput();">
-</form>
-<div id="twitch-embed"></div>
+<div id="twitch-div" style="display:none;">
+	<form action="" method="post" name="TTVformxml">
+	  <input type="text" name="TTVtypename" value="" id="TTVtypename">
+	  <input type="text" name="TTVidname" value="" id="TTVidname">
+	  <input type="button" onclick="TTVinput();">
+	</form>
+	<div id="twitch-embed"></div>
+</div>
 
 <article id="post-15" class="post-15 post type-post status-publish format-standard hentry category-global-ajax-event-handlers category-65">
 	<header class="entry-header">
