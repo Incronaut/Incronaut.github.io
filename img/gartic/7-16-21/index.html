@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<div class="archive">
+    <h2 class="pageTitle">High Level Anime Thoughts</h2>
+
+    {% for blog in site.categories.blog-posts-animetrics %}
+    <div class="content blog-posts-animetrics">
+        <h3><a href="{{ BASE_PATH }}{{ blog.url }}">{{blog.number}}. {{blog.title}}</a></h3>
+        <br/>
+        {{blog.short_description}}
+        <br/><br/>
+        <div class="icon-author"><strong>Author:</strong> <em>{{blog.author}}</em></div>
+        <div class="icon-date"><strong>Date:</strong> <em>{{blog.date | date: "%-d %B %Y"}}</em></div>
+        <!--<div class="icon-download"><strong>Download As:</strong> <a href="{{blog.aac_asset_link}}" class="download-link">AAC M4A</a>, <a href="{{blog.ogg_asset_link}}" class="download-link">OGG</a></div>--->
+    </div>
+    {% endfor %}
+</div>
