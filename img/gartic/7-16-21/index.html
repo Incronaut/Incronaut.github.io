@@ -2,11 +2,11 @@
 layout: default
 ---
 
-<div class="archive">
+<div class="archive" style="display: inline-text; text-align: center;">
     <h2 class="pageTitle">CRAKT + Reek Havok Gartic Phone</h2>
 
-    {% for gartic1 in site.data.gartic %}
-        <img src="http://images.incronaut.com/gartic/craktreek/{{gartic1.img}}.gif" class="gravatar" alt="{{gartic1.img}}" align="left">
+    {% for gartic in site.data.gartic %}
+        <img src="http://images.incronaut.com/gartic/craktreek/{{gartic.gartic1}}.gif" alt="{{gartic.gartic1}}" align="center" style="margin-bottom: 20px;">
         <br/>
     {% endfor %}
 </div>
