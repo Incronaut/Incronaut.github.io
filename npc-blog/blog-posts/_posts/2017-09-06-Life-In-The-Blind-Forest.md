@@ -24,4 +24,4 @@ I think it's important for a Metroidvania game to feel weak and helpless in a va
 
 Ori and the Blind Forest is an artistic masterpiece that is fun, fast paced, and beautiful.  The gameplay is fast, fun, exciting, and free.  It pulls the player in with its creativity, and gives back with a smile on the player's face.  Although it doesn't do anything new, it does what it does perfectly.  8.5/10 (which is incredibly high on my strict rating scale).
 
-<img src="http://images.incronaut.com/ori-4.jpg" alt="ori-3" width="500" />
+<img src="http://images.incronaut.com/ori-4.jpg" alt="ori-4" width="500" />

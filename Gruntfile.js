@@ -6,6 +6,7 @@ module.exports = function(grunt) {
 
   // load tasks.
   grunt.loadTasks('build/tasks');
+  grunt.loadNpmTasks('grunt-jekyll');
 
   grunt.registerTask('test', [
     'jshint',
