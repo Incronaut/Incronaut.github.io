@@ -1,8 +1,8 @@
 ---
 layout: blog
 number: "006"
-title: "My Life Can’t Be This Boring! (Level Design Thoughts)"
-short_description: "Level Design.  From tumblr blog: http://sugoikawaiimiyafuji420.tumblr.com/ "
+title: "Level Design Thoughts"
+short_description: "My Life Can’t Be This Boring! (Level Design Thoughts).  From tumblr blog: http://sugoikawaiimiyafuji420.tumblr.com/ "
 author: vontrappfamily
 ---
 
