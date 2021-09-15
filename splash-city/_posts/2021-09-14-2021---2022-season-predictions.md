@@ -1,7 +1,7 @@
 ---
 layout: blog
 number: "007"
-title: "2021-2022 Warirors Season Predictions"
+title: "2021-2022 Warriors Season Predictions"
 short_description: "I asked my friends some VERY specific questions about the upcoming Warriors season, and here's what I got"
 author: Incronaut
 ---
