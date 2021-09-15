@@ -1,0 +1,267 @@
+---
+
+ - name: Incronaut
+   answer1: Steph
+   answer2: No
+   answer3: No
+   answer4: Yes
+   answer5: After ASG
+   answer6: Fully healthy
+   answer7: 7
+   answer8: "46-36"
+   answer9: Lose at WCF
+   answer10: No
+   answer11: Moody
+   answer12: Otto Porter Jr
+   answer13: Iguodala
+   answer14: Over
+   answer15: Over
+   answer16: Under
+   answer17: Under
+   answer18: No
+   answer19: Yes
+   answer20: YES
+   answer21: Yes
+   answer22: No
+   answer23: No
+   answer24: Yes
+   color: "#182199"
+   
+ - name: hawkzero
+   answer1: Steph
+   answer2: No
+   answer3: No
+   answer4: No
+   answer5: Early 2022 (before ASG)
+   answer6: Full
+   answer7: 4
+   answer8: 50-32
+   answer9: Semi's
+   answer10: Wiseman
+   answer11: Wiseman
+   answer12: Bjeli
+   answer13: Otto
+   answer14: Over
+   answer15: Under
+   answer16: Under
+   answer17: Under
+   answer18: No
+   answer19: No
+   answer20: No
+   answer21: No
+   answer22: No
+   answer23: Yes
+   answer24: Yes
+   color: "#a5861b"
+
+ - name: Seb
+   answer1: Steph
+   answer2: No
+   answer3: No
+   answer4: No
+   answer5: Late Jan
+   answer6: Min Restriction
+   answer7: 5
+   answer8: 48-34
+   answer9: Championship
+   answer10: No
+   answer11: Wiseman
+   answer12: Bjelica
+   answer13: Otto
+   answer14: Over
+   answer15: Over
+   answer16: Over
+   answer17: Under
+   answer18: No
+   answer19: Yes
+   answer20: No
+   answer21: No
+   answer22: No
+   answer23: No
+   answer24: No
+   color: "#182199"
+
+ - name: valupak
+   answer1: steph
+   answer2: no
+   answer3: no
+   answer4: no
+   answer5: week before ASG
+   answer6: fully
+   answer7: 7
+   answer8: 45-37
+   answer9: semi?
+   answer10: no
+   answer11: i guess wiseman
+   answer12: otto
+   answer13: otto
+   answer14: over
+   answer15: under
+   answer16: over
+   answer17: under
+   answer18: no
+   answer19: no
+   answer20: 🤞🏻, but no
+   answer21: no
+   answer22: klay hahahaha
+   answer23: no
+   answer24: yes
+   color: "#a5861b"
+
+ - name: QtDragon98
+   answer1: Steph
+   answer2: No
+   answer3: Yes
+   answer4: Yes
+   answer5: April 7
+   answer6: Fully
+   answer7: 4
+   answer8: 55-27
+   answer9: WCF
+   answer10: No
+   answer11: Wiseman
+   answer12: Otto
+   answer13: Otto
+   answer14: Over
+   answer15: Over
+   answer16: Over
+   answer17: Under
+   answer18: No
+   answer19: Yes
+   answer20: Yes
+   answer21: Yes
+   answer22: Steph
+   answer23: Yes
+   answer24: Yes
+   color: "#182199"
+
+ - name: tandemdirect
+   answer1: Steph, Wiggins (all of Canada voting for him)
+   answer2: No (4th)
+   answer3: No
+   answer4: No, but close
+   answer5: Christmas day vs CP3
+   answer6: Fully
+   answer7: 6
+   answer8: 47-35
+   answer9: NBA champs
+   answer10: No
+   answer11: Moody
+   answer12: Otto Porter
+   answer13: Otto Porter
+   answer14: Under
+   answer15: Under
+   answer16: Over (19)
+   answer17: Under (38) due to higher shooting volume
+   answer18: No, Lacob overvalues our rooks
+   answer19: Yes, he loves not being the main guy
+   answer20: REPEATEDLY
+   answer21: Yes
+   answer22: No
+   answer23: Yes
+   answer24: No, too much Booker
+   color: "#a5861b"
+   
+ - name: CPJ
+   answer1: Steph & Dray (plz make some shots)
+   answer2: No
+   answer3: Yes
+   answer4: Yes
+   answer5: Christmas day
+   answer6: Fully
+   answer7: 6
+   answer8: 47-35
+   answer9: Lose in finals
+   answer10: No
+   answer11: Moody
+   answer12: Bjelica
+   answer13: Iggy
+   answer14: Over
+   answer15: Over
+   answer16: Under (13)
+   answer17: Under  
+   answer18: Yes, wiggins for somebody
+   answer19: No, traded
+   answer20: YES PLZ
+   answer21: Yes
+   answer22: No (Kerr will bench them)
+   answer23: No
+   answer24: Yes
+   color: "#182199"
+
+ - name: zeroum
+   answer1: Steph
+   answer2: Yes
+   answer3: No
+   answer4: Yes
+   answer5: In 2022
+   answer6: Fully
+   answer7: 6
+   answer8: 47-35
+   answer9: Lose at WCF
+   answer10: No
+   answer11: Moody
+   answer12: Otto Porter Jr.
+   answer13: Iggy
+   answer14: Over
+   answer15: Over
+   answer16: Under
+   answer17: Under
+   answer18: no
+   answer19: yes
+   answer20: yes
+   answer21: yes
+   answer22: no
+   answer23: no
+   answer24: yes
+   color: "#a5861b"
+
+ - name: Overall Statistics
+   answer1: Steph (Unanimous) 
+   answer1b: "Note: Had a couple votes for others"
+   answer2: Yes (1) - No (7)
+   answer2b: "Note: Zeroum with the faith!"
+   answer3: Yes (2) - No (6)
+   answer4: Yes (4) - No (4)
+   answer4b: "Note: Surprisingly evenly split here!  On one hand, Curry did it last year.  On the other, with a fully healthy team, Steph won't be as required to score as much."
+   answer5: Early 2022, before ASG (5)
+   answer5b: "Note: Most votes for early 2022.  This was before we got news that Klay is expected to return at Christmas.  Still, with all the uncertainty early 2022 is a great guess.  We had two others put Christmas Day and I'm the only one that put after the All Star Game.  I still think Klay should rest as much as possible!"
+   answer6: Fully (7)
+   answer6b: "Note: Seb thinks Klay will still be on a min restriction.  Let's hope that's not the case! Pray for Klay!"
+   answer7: 6 (3), 4 (2), 7 (2), 5 (1)
+   answer7b: "Note: Pretty evenly split here.  Looks like overall we all think Warriors will be a mid-low seed."
+   answer8: 47-35 (3), Low 45-37, High 55-27
+   answer8b: "Note: Got a 10 game spread here but most are thinking 47-35, pretty reasonable."
+   answer9: WCF (3), Semi (2), Champs (2), Lose in finals (1)
+   answer9b: "Note: Honestly with how competitive the Western Conference is, WCF will be pretty amazing.  Love Tandemdirect and Seb putting in winning the chip though!"
+   answer10: No (7), Wiseman (1)
+   answer10b: "Note: Hawkzero with the faith in Wiseman! Let's go!"
+   answer11: Moody (4), Wiseman (4)
+   answer11b: "Note: Evenly split!! Let's see what happens! I think Wiseman has a harder role to play so he won't develop as fast, especially on points."
+   answer12: Otto Porter Jr. (5), Bjelica (3)
+   answer12b: "Note: I think OPJ will shoot the most 3s, but I hear Bjelica is pretty good at shooting too."
+   answer13: Otto Porter Jr. (5), Iguodala (3)
+   answer13b: "Note: I put Iguodala but I actually think OPJ makes the most sense.  Iggy gettin' old.."
+   answer14: Over (7), Under (1)
+   answer14b: "Note: Lol c'mon Tandemdirect where's the faith! Number based on 3s made in 20-21 season"
+   answer15: Over (5), Under (3)
+   answer15b: "Note: I think over because Draymond will want to defend the rookies as much as possible.  I also think with more on the line, angry Draymond will come out more.  Number is based on 20-21 season."
+   answer16: Over (4), Under (4)
+   answer16b: "Note: Another split! This one is tough because Poole's overall PPG in 20-21 was much lower due to his slow start to the season, but even when he started cookin' later on, I think he averaged around 15ppg, so going up to 16PPG is doing what he does but also a bit more!  It's a tall order but Poole is definitely capable."
+   answer17: Under (Unanimous)
+   answer17b: "Note: JTA will be shooting more.  Also shooting at 39%, even if most shots were wide open (some were still tough!) is a really impressive stat.  I think we all believe JTA may have been extra hot this past year and will cool down towards the shooting average, but hopefully JTA proves us all wrong!"
+   answer18: Yes (1) - No (7)
+   answer18b: "Note: CPJ thinks we'll trade Wiggins.  Probably our most likely trade piece.  But Wiggins has really grown well into our system, so we'd have to get a pretty massive upgrade to be willing to give him up."
+   answer19: Yes (5) - No (3)
+   answer19b: "Note: Similar to the last question, Wiggins is playing well in our system, but we could end up trading him.  I'm not sure when his contract expires, but he is also very expensive.."
+   answer20: Yes (5) - No (3)
+   answer20b: "Note: To everyone who voted no.  You guys are no fun!"
+   answer21: Yes (5) - No (3)
+   answer21b: "Note: Ok I voted Under for Poole's improved PPG but I voted Yes here.  Me, CPJ, and Zeroum are all a little hypocritical haha! Funnily enough, Seb and Valupak did the complete opposite.  I guess they'll think Poole will be in the running but maybe someone else will nab the title."
+   answer22: No (6), Steph (1), Klay (1)
+   answer22b: "Note: I think if we're going for the Championship and are doing well, Kerr will rest our players.  That being said, it's only a matter of time until one of the Splash Bros (especially Steph) utterly destroys that record."
+   answer23: Yes (4) - No (4)
+   answer23b: "Note: A third split!  This was asked before the Russell Westbrook trade.  Also before all the crazy Lakers signings to the Senior Citizen market.  I'll always vote yes because I'll root against the Lakers, but the Lakers are a freaking powerhouse."
+   answer24: Yes (6) - No (2)
+   answer24b: "Note: Go Dubs!!! We're going to be a nightmare when Klay comes back!"
+   color: "#107c2f"
