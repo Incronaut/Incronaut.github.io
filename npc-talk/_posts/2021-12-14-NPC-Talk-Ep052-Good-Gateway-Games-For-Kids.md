@@ -1,6 +1,6 @@
 ---
 layout: episode
-number: "051"
+number: "052"
 title: "Good Gateway Games for Kids"
 duration: "47:28"
 short_description: "As parents how do we slowly indoctrinate our future generations into gaming?"
