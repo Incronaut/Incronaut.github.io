@@ -6,7 +6,7 @@ short_description: "Dark Souls Group Review"
 author: Incronaut, Nataku, Vontrappyfamily
 ---
 
-<img src="http://images.incronaut.com/darksouls-1.png" alt="darksouls-1" width="500" />
+<img src="http://images.incronaut.com/darksouls-1.jpg" alt="darksouls-1" width="500" />
 
 Dark Souls.  A classic masterpiece that was so revolutionary it created its own genre.  Known to be difficult and only beatable by the best, I ask a couple of my gamer friends their thoughts on it overall.  Has Dark Souls stood the test of time?  Is it a perfect game?  Let's see what they say!  Note: These questions were asked before the release of Elden Ring, so Elden Ring will not be involved in any of these questions or answers.
 
