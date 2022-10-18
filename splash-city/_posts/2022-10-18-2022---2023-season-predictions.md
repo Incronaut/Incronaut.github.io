@@ -45,4 +45,4 @@ With the 2022-2023 NBA Season on the horizon, I once again asked my friends to p
 <br/>
 {% endfor %}
 
-All right everyone! That should do it for our 2021-2022 Warriors Season Predictions!  I'll post an article at the end of the regular season with the real statistics and we'll see who the winner is!  Thanks for reading!
+All right everyone! That should do it for our 2022-2023 Warriors Season Predictions!  I'll post an article at the end of the regular season with the real statistics and we'll see who the winner is (hopefully I actually do it this time)!  Thanks for reading!
