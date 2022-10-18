@@ -1,0 +1,328 @@
+---
+
+ - name: Incronaut
+   answer1: Steph, Wiggins, Kuminga
+   answer2: No
+   answer3: No
+   answer4: No
+   answer5: 5th Seed
+   answer6: 50-32
+   answer7: Western Conference Finals
+   answer8: Over
+   answer9: Under
+   answer10: Over
+   answer11: Over
+   answer12: Over
+   answer13: Under
+   answer14: No
+   answer15: Yes
+   answer16: Steph
+   answer17: Moody
+   answer18: Kuminga
+   answer19: Kuminga
+   answer20: Donte
+   answer21: Looney
+   answer22: Donte and J Green, Iggy retires
+   answer23: No
+   answer24: Kuminga
+   answer25: Yes
+   answer26: Rollins
+   answer27: Poole
+   answer28: Yes
+   answer29: Yes
+   answer30: Yes, $110m
+   color: "#182199"
+   
+ - name: hawkzero
+   answer1: Only Steph
+   answer2: No
+   answer3: No
+   answer4: No
+   answer5: 2
+   answer6: 61-23
+   answer7: Finals; Bucks
+   answer8: Over
+   answer9: Under
+   answer10: Under
+   answer11: Under
+   answer12: Under
+   answer13: Under
+   answer14: No but there should be..
+   answer15: No
+   answer16: No
+   answer17: Wiseman
+   answer18: Wiseman
+   answer19: Kuminga
+   answer20: Donte
+   answer21: Looney
+   answer22: Poole, Iggy, Donte and JG
+   answer23: No
+   answer24: Draymond
+   answer25: No
+   answer26: Both will barely get any substantial NBA minutes
+   answer27: Curry
+   answer28: No
+   answer29: Yes
+   answer30: No
+   color: "#a5861b"
+
+ - name: Seb
+   answer1: Steph
+   answer2: No
+   answer3: No
+   answer4: No
+   answer5: 3
+   answer6: 57-25
+   answer7: Finals
+   answer8: Over
+   answer9: Under
+   answer10: Over
+   answer11: Over
+   answer12: Over
+   answer13: Under
+   answer14: No
+   answer15: Yes
+   answer16: No
+   answer17: Moody
+   answer18: Kuminga
+   answer19: Kuminga
+   answer20: Donte
+   answer21: Loon 
+   answer22: Poole, J Green, donte 
+   answer23: No way
+   answer24: Wiggins 
+   answer25: Yes
+   answer26: Rollins
+   answer27: Curry
+   answer28: N/A
+   answer29: N/A
+   answer30: N/A
+   color: "#182199"
+
+ - name: valupak
+   answer1: steph
+   answer2: no
+   answer3: no
+   answer4: no
+   answer5: N/A
+   answer6: N/A
+   answer7: N/A
+   answer8: N/A
+   answer9: N/A
+   answer10: N/A
+   answer11: N/A
+   answer12: N/A
+   answer13: N/A
+   answer14: N/A
+   answer15: N/A
+   answer16: N/A
+   answer17: N/A
+   answer18: N/A
+   answer19: N/A
+   answer20: N/A
+   answer21: N/A
+   answer22: iggy, please! that guy is a freeloader lol
+   answer23: N/A
+   answer24: N/A
+   answer25: N/A
+   answer26: N/A
+   answer27: N/A
+   answer28: N/A
+   answer29: N/A
+   answer30: N/A
+   color: "#a5861b"
+
+ - name: QtDragon98
+   answer1: Curray
+   answer2: No
+   answer3: No
+   answer4: No
+   answer5: 1
+   answer6: 60-22
+   answer7: Finals. Repeat win over Boston
+   answer8: Over
+   answer9: Over
+   answer10: Over
+   answer11: Over
+   answer12: Over
+   answer13: Under
+   answer14: No
+   answer15: Yes
+   answer16: Yes
+   answer17: Moody
+   answer18: Moody
+   answer19: Kuminga
+   answer20: Donte
+   answer21: Looney
+   answer22: Draymond green
+   answer23: No
+   answer24: Wiggins
+   answer25: No
+   answer26: Baldwin
+   answer27: Curry
+   answer28: Yes
+   answer29: Yes
+   answer30: No
+   color: "#182199"
+
+ - name: tandemdirect
+   answer1: Steph, Klay, Draymond, Wig, Poooole Party
+   answer2: Yes
+   answer3: No
+   answer4: No
+   answer5: 2nd Seed
+   answer6: 55-27
+   answer7: CHAMPS
+   answer8: Over
+   answer9: Over
+   answer10: Over lol
+   answer11: Over
+   answer12: Under
+   answer13: Over
+   answer14: No
+   answer15: Both will
+   answer16: Steph
+   answer17: Wiseman
+   answer18: Moody
+   answer19: Wiseman
+   answer20: Daaaaante
+   answer21: Loon
+   answer22: Wig :(
+   answer23: Yes
+   answer24: Wig
+   answer25: Yes!
+   answer26: PBJ
+   answer27: Curry
+   answer28: Yes
+   answer29: Yes (no one else wants him)
+   answer30: Yes, cuz he's the man.  $106M
+   color: "#a5861b"
+   
+ - name: CPJ
+   answer1: Steph, Wiggins, Poole
+   answer2: No
+   answer3: No
+   answer4: No
+   answer5: 4th
+   answer6: 53-29
+   answer7: CHAMPS
+   answer8: Under
+   answer9: Under
+   answer10: Under
+   answer11: Over
+   answer12: Over
+   answer13: Under
+   answer14: No
+   answer15: YES PLZ
+   answer16: No
+   answer17: Wiseman  
+   answer18: Kuminga
+   answer19: Moody
+   answer20: Donte
+   answer21: Loon
+   answer22: Klay
+   answer23: Kinda
+   answer24: Wig
+   answer25: YES PLZ
+   answer26: Baldwin
+   answer27: Curry
+   answer28: Yes PLZ
+   answer29: N/A
+   answer30: N/A
+   color: "#182199"
+
+ - name: zeroum
+   answer1: ALL THE STARTERS (plus poole)
+   answer2: No :(
+   answer3: Yes
+   answer4: Yes
+   answer5: 4th
+   answer6: 54-28
+   answer7: Champs!!
+   answer8: Over
+   answer9: Under
+   answer10: Under
+   answer11: Over
+   answer12: Over
+   answer13: Under
+   answer14: No
+   answer15: Yes!
+   answer16: Yes!
+   answer17: Wiseman
+   answer18: Wiseman
+   answer19: Kuminga
+   answer20: Donte
+   answer21: Loon 
+   answer22: Iggy 
+   answer23: Yes
+   answer24: Wiseman
+   answer25: Almost
+   answer26: PBJ
+   answer27: Poole
+   answer28: Yea!
+   answer29: Yes!
+   answer30: Yes, $100 M
+   color: "#a5861b"
+
+ - name: Overall Statistics
+   answer1: Steph (8), Wiggins (4), Poole (3), others
+   answer1b: "Note: Zeroum predicts 6 Warriors to make the all-star roster lmao.  I also put Kuminga..."
+   answer2: Yes (1) - No (7)
+   answer2b: "Note: Same answer as last year except this time Tandemdirect said yes instead of Zeroum"
+   answer3: Yes (1) - No (7)
+   answer3b: "Note: Zeroum with the faith again haha"
+   answer4: Yes (1) - No (7)
+   answer4b: "Note: Zeroum again with the faith lol, the ultimate Steph believer"
+   answer5: 4th (2), 2nd (2)
+   answer5b: "Note: Surprisingly not a lot of agreement here.  Warriors will be looking to get that top 4 seed at least for homecourt advantage.  Ironically I put them at 5th seed (regretting my decision..) because the West is so stacked, but 4th seems like a pretty good guess overall."
+   answer6: High- 61-23, Low- 52-30
+   answer6b: "Note: Mostly around the same ballpark."
+   answer7: Champs (3), Finals (3)
+   answer7b: "Note: Honestly with how highly we're being ranked this year, Champions is NOT out of the question!! We'll be heavily relying on our young guys to give us depth come playoffs and that will be our X-factor.  Otherwise yes we got a real shot!"
+   answer8: Over (6), Under (1)
+   answer8b: "Note: CPJ thinking Klay will regress in his shooting next year smh"
+   answer9: Over (2), Under (5)
+   answer9b: "Note: Sad, but with minutes restrictions and so much firepower coming from the bench, Steph probably doesn't need to shoot as much.  Also, I believe Steph will have another underwhelming shooting season.  Stay tuned for my Steph shot analysis coming soon!"
+   answer10: Over (4), Under (3)
+   answer10b: "Note: Question was asked before the fist came out.  Has Draymond found his zen or has the fist truly taken over?"
+   answer11: Over (6), Under (1)
+   answer11b: "Note: Hawkzero with the under.  Very surprising since I think JP is only going to improve and he will definitely have a bigger role next year in the lineup.  Who knows, maybe he will be shooting less and passing more..."
+   answer12: Over (5), Under (2)
+   answer12b: "Note: Wiggins is so consistent it could go either way... but only by a .1 differential"
+   answer13: Over (1), Under (6)
+   answer13b: "Note: Tandemdirect really wants Iggy to have a bigger role this year... Iggy said himself that if he's on the court, the young guys are doing something wrong lmao"
+   answer14: No (Unanimous)
+   answer14b: "Note: Our roster is solid, no need to trade.  Again, this was asked before the Draymond fist.  The only trade we would be interested in would be moving Draymond if need be, but Warriors FO made it quite clear that they want to keep everyone if possible to go for another Championship run"
+   answer15: Yes (5), No (2)
+   answer15b: "Note: LeBron boutta get posterized opening night!"
+   answer16: Yes (4, 2 say by Steph specifically), No (3)
+   answer16b: "Note: I said yes, but after seeing his shooting woes in preseason.. we'll see.  It only takes one nuclear game from Steph to break the record."
+   answer17: Wiseman (4), Moody (3)
+   answer17b: "Note: Tehnically with how low of a floor and how low expectations are with Wiseman, seeing what we've seen of him in preseason and how much of a decent player he has become (people have said the Warriors have the best frontcourt bench duo in the NBA so far), it's much more feasible to see Wiseman improving at a higher rate."
+   answer18: Kuminga (3), Wiseman (2), Moody (2)
+   answer18b: "Note: Very split. I feel like Kuminga has the most room to replace starters (SF, PF backup is probably Kuminga prioritized), but otherwise I foresee them playing pretty similar minutes."
+   answer19: Kuminga (5), Wiseman (1), Moody (1)
+   answer19b: "Note: Kuminga is just such a beast"
+   answer20: Donte (Unanimous)
+   answer20b: "Note: He looks really good in the preseason too, really smart player."
+   answer21: Looney (Unanimous)
+   answer21b: "Note: Loongod.  Offensive rebound master.  Championship center.  And also an ironman, I believe he played every single game last season.  Hard for Wiseman to overtake."
+   answer22: Answers are all over the place.
+   answer22b: "Note: Lots of Iggy though, should be retiring as he said he would after this season... Surprisingly some people said Poole.  Even before the extension I thought it was clear the Warriors are gonna pay him"
+   answer23: Yes (2), Maybe (1), No (4)
+   answer23b: "Note: Unless it's super obvious like last year where Draymond basically admitted to being out of shape, it's going to be hard to tell how out of shape he is..."
+   answer24: Wiggins (4), Kuminga/Draymond/Wiseman (1 each)
+   answer24b: "Note: Wiggins DPOY nasty defender this year"
+   answer25: Yes (4), No (3)
+   answer25b: "Note: Wiseman please be careful out there!  Careful on those dunks!!"
+   answer26: Baldwin (4), Rollins (2)
+   answer26b: "Note: They both seem like decent prospects but with how deep our NBA level developmental / NBA ready roster is already, it would make the most sense to send them both to the G-League to get more minutes."
+   answer27: Curry (5), Poole (2)
+   answer27b: "Note: These two are gonna be top 2 FT shooters this year.  Such great talent to have! Side note: Warriors were one of the worst FT shooting teams if you took away Curry and Poole's percentages lol..."
+   answer28: Yes (5), No (1)
+   answer28b: "Note: He is the frontrunner right now for 6MOTY before the year starts! Starter level player stuck on the bench with a decently big role.  Leggo!!!"
+   answer29: Yes (Unanimous)
+   answer29b: "Note: Warriors FO said they plan on keeping Draymond for the foreseeable future.  Hawkzero said no one else wants him.  He does lose a lot of value on other teams but I think he still would have some.  I don't think anyone would want to pay him the max though..."
+   answer30: Yes (3), No (2)
+   answer30b: "Note: I guessed the most money at $110M.  I initially guessed $120M (should've stuck to my gut!) but thought that seemed a little high but I also didn't realize Herro got a $130M contract.  Poole got $140M with incentives, $123M guaranteed.  Congrats to him!  Well deserved and a hard working dude."
+   color: "#107c2f"
