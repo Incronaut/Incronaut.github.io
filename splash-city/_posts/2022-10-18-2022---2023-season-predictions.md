@@ -8,7 +8,7 @@ author: Incronaut
 
 With the 2022-2023 NBA Season on the horizon, I once again asked my friends to predict some very specific Warriors-related scenarios.  Here we go towards another amazing season!  Final statistics and thoughts at the bottom:
 
-{% for answer in site.data.dubspredictions21 %}
+{% for answer in site.data.dubspredictions22 %}
 <h3>{{ answer.name }}</h3>
 <div style="color: {{ answer.color }};">
 <p style="margin: 0;">1. Who on the Dubs will be named All Star?:<b style="color:black;"> {{ answer.answer1 }}</b> <div style="color: #88001b;">{{ answer.answer1b }}</div></p>
