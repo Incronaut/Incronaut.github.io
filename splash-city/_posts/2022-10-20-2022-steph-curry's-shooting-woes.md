@@ -17,11 +17,15 @@ Starting with Steph's shooting motion, overall it has stayed relatively the same
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Lvc8lN6KEA0?start=428" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Edit: Here are two great examples from the most recent Warriors vs Pistons game on Oct 30th, you can see that Curry has a slight pause at the apex of his form before he flicks for the follow-through:
+However, looking at Curry's shot from this year's 3pt shooting exhibition in Japan for preseason, you can see that Curry has a VERY slight pause at the apex of his form before he flicks for the follow-through:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yBKmm2qVAXM?start=25" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+This pause has shown itself on multiple occassions throughout this past season.  What this effect can have is a slight loss in power, a slower release time from the catch, and a much more inconsistent shot overall.  Although Curry absolutely dominates in said 3pt contest, when there is more pressure to shoot quicker and a tighter defense surrounding him, these slight changes may impact his shot in a negative way.
+
+Edit: Here are two great examples from the most recent Warriors vs Pistons game on Oct 30th:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SFmov5yhOaQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-What this effect can have is a slight loss in power, a slower release time from the catch, and a much more inconsistent shot overall.  Although Curry absolutely dominates in said 3pt contest, when there is more pressure to shoot quicker and a tighter defense surrounding him, these slight changes may impact his shot in a negative way.
 
 Moving on to the "tilt", which represents a shooter's orientation to the basket, there seems to be a change in this area as well.  <a href="https://www.youtube.com/watch?v=tEohw0aet7M&t=2m40s">According to Steph's own MasterClass,</a> he states that one should have their ten toes facing the basket and he shows that shoulders should be square to the basket.  <a href="https://www.youtube.com/watch?v=_anxl_hE9jQ&t=1m36s">Interestingly, Steph doesn't follow his own advice and points his toes toward the side,</a> and while his shoulders aren't perfectly square to the basket, Steph tends to do a good job of aligning his whole shoulders, torso, and feet on a straight vertical line.  Also, his right foot tends to be placed slightly in front of his left, causing him to have some natural angling, but not a lot.
 
