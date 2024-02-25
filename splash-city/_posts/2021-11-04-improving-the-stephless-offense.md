@@ -6,7 +6,7 @@ short_description: "Why the Warriors offense is so weak without Stephen Curry an
 author: Incronaut
 ---
 
-<img src="http://images.incronaut.com/dubclub.jpg" alt="dubclub" width="500" />
+<img src="https://s3-us-west-1.amazonaws.com/images.incronaut.com/dubclub.jpg" alt="dubclub" width="500" />
 
 As of this article, the Warriors are tied for the best record in the NBA with 6 wins and 1 loss.  We're talented.  We're deep.  We're clicking.  It all seems to be coming together now, but there are a few looming and prominent issues that the Dubs need to fix before they become true contending threats.  One of those issues being the Warriors offense when Steph Curry is not on the floor.  I'll be the first to admit, I'm still learning about how to be a stats guy, and I wanted to prove my point with Steph's Plus Minus rating on and off the court.  Unfortunately, <a href="https://www.basketball-reference.com/teams/GSW/2022.html">Steph's OnCourt +/- is +10.3 and his net rating is +3.3.</a>  This is a great stat actually, but it isn't as jarring as I thought it would be with Steph off the floor.  So instead, we'll work with Offense Rating to show Steph's true influence.  With Steph on the floor, the offensive rating of the Warriors is a whopping 111.9.  Without Steph, it drops to 95.9, which is a huge 16 point difference.  On average, the Warriors Offensive Rating is 107.4, so it dips well below average without Steph.  Besides the obvious Steph curry is a generational talent and the greatest shooter of all time, why are the Warrior struggling so much on the offensive end without him?  What are some things the Dubs can improve on?  Let's take a look!
 

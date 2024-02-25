@@ -5,7 +5,7 @@ title: "Steph Curry's Shooting Woes"
 short_description: "Steph Curry was in a slight shooting slump last year and there is concern that it may continue on to this season as well"
 author: Incronaut
 ---
-<img src="http://images.incronaut.com/curry.jpg" alt="dubclub" width="700" />
+<img src="https://s3-us-west-1.amazonaws.com/images.incronaut.com/curry.jpg" alt="dubclub" width="700" />
 
 Stephen Curry, the greatest shooter in the history of the NBA, has been seeing a decline in his shooting this past year.  In this year's preseason alone, Curry has shot 1-4, 3-8, 2-8, and 1-9 from 3-point range.  That's 7/29 total, or a little over 24% from 3.  Although this is just preseason and it isn't an indicator of what is to come, it does not bode well considering the shooting season Steph had prior, despite winning a championship.
 
