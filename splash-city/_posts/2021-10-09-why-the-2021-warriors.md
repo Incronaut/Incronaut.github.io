@@ -6,7 +6,7 @@ short_description: "It's gonna be a fun year"
 author: Incronaut
 ---
 
-<img src="http://images.incronaut.com/dubsrank-1.jpg" alt="dubsrank-1" width="500" />
+<img src="https://s3-us-west-1.amazonaws.com/images.incronaut.com/dubsrank-1.jpg" alt="dubsrank-1" width="500" />
 
 The 2021-2022 Golden State Warriors have been all over the place in terms of where they are ranked.  I've seen them as high as #2 in the Western Conference (behind the incredibly stacked Lakers) all the way to barely missing the playoffs.  The real question is, why are the Warriors so hard to rank this season?  The short answer is there are a lot of variables that will either give the Warriors the highest of highs or the lowest of lows.  Let's go through them!
 
@@ -15,7 +15,7 @@ The 2021-2022 Golden State Warriors have been all over the place in terms of whe
 <h3>Recovering injuries</h3>
 We have two major lingering injuries from the past couple of seasons that, if everything goes well, are expected to be fully recovered this coming season.  Those injured players are the elite 3 and D player Klay Thompson and second year unicorn James Wiseman.  For Klay, he was initially projected to make his first return game by Christmas, although I've been hearing reports that it is a little more unknown than that.  At the very worst, something horrific happens and Klay's return timetable is further delayed, but that's at the absolute worst and is fairly unlikely.  On a more realistic scale, Klay can absolutely make a return but we have no idea how well he's going to play when he does retruen.  Before his most recent achilles tear, which cost him this last season, he tore his ACL the year before, meaning Klay hasn't played a single game of NBA basketball for two seasons now and counting.  The bright side is that if you've seen any footage of Klay practicing, his elite shooting is still there.  His form still looks picture perfect and his shot is splashing just as much as ever.  What is the most concerning is that Klay may lose a step in quickness, which will severely affect his defensive prowess.  Klay has been highly regarded as one of the best guard defenders in the league.  We always put Klay on the tougher guard matchup and he never disappoints.  However, with such a long break and with injuries looming closely in the past, it's very possible that Klay is just a former shell of himself, especially on defense.
 
-<img src="http://images.incronaut.com/dubsrank-2.jpg" alt="dubsrank-2" width="500" />
+<img src="https://s3-us-west-1.amazonaws.com/images.incronaut.com/dubsrank-2.jpg" alt="dubsrank-2" width="500" />
 
 James Wiseman tore his miniscus last season, ending his first NBA season early.  Even before his injury, Wiseman's performance could be described as tenuous.  I don't want to go into too many details of Wiseman's performance last year, but if you're curious <a href="http://www.incronaut.com/splash-city/2021/08/14/wiseman-at-pf">I wrote an article that describes it in pretty great detail.</a> Despite Wiseman's play, he could possibly end up even slower and less refined coming back from an injury.  Although just a second year, the Warriors are almost relying on Wiseman's huge prescence to make a meaningful impact this year, especially to win the chip.  We'll need him stronger and better than ever and recovering from an injury just isn't the best start.
 
@@ -52,4 +52,4 @@ Last but definitely not least is Wiseman.  We haven't seen too much of him with 
 <h2>Overall</h2>
 I feel like what makes the Golden State Warriors so difficult to rank this year is that there's so much uncertainty.  At the very worst, our injured players don't recover well and our veterans get re-injured.  With Draymond not playing the same and only Steph on the floor as a huge threat, we can very well have another year where we miss the playoffs.  But at the very best, everyone stays healthy and we're back again with a fully healthy All-Star Klay Thompson.  On top of all that, our young core has the potential, but are they able to turn that potential into performance while our Big 3 is still playing at a top level?  We only have a couple more years of prime Steph, so we definitely need our young rooks to step up NOW if we want another chance at a championship with Curry's amazingness.  Can our team shape up this year or in the next two at the very latest?  We shall see!  There is one thing that is certain though, this year is going to be a fun one for the Golden State Warriors!
 
-<img src="http://images.incronaut.com/dubsrank-3.jpg" alt="dubsrank-3" width="500" />
+<img src="https://s3-us-west-1.amazonaws.com/images.incronaut.com/dubsrank-3.jpg" alt="dubsrank-3" width="500" />

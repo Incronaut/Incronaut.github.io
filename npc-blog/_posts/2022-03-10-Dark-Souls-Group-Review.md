@@ -6,11 +6,11 @@ short_description: "Dark Souls Group Review"
 author: Incronaut, Nataku, Vontrappyfamily
 ---
 
-<img src="https://images.incronaut.com/darksouls-1.jpg" alt="darksouls-1" width="500" />
+<img src="https://s3-us-west-1.amazonaws.com/images.incronaut.com/darksouls-1.jpg" alt="darksouls-1" width="500" />
 
 Dark Souls.  A classic masterpiece that was so revolutionary it created its own genre.  Known to be difficult and only beatable by the best, I ask a couple of my gamer friends their thoughts on it overall.  Has Dark Souls stood the test of time?  Is it a perfect game?  Let's see what they say!  Note: These questions were asked before the release of Elden Ring, so Elden Ring will not be involved in any of these questions or answers.
 
-<img src="https://images.incronaut.com/darksouls-2.png" alt="darksouls-2" width="500" />
+<img src="https://s3-us-west-1.amazonaws.com/images.incronaut.com/darksouls-2.png" alt="darksouls-2" width="500" />
 
 <h2>1. What makes Dark Souls so special or unique for you?</h2>
 
@@ -26,7 +26,7 @@ Dark Souls.  A classic masterpiece that was so revolutionary it created its own 
 
 <p>The difficulty curve also keeps up throughout the game - while it’s the most steep in the beginning, it never gets too easy or boring, with each new boss bringing unique challenges to overcome.</p></div>
 
-<img src="https://images.incronaut.com/darksouls-3.png" alt="darksouls-3" width="500" />
+<img src="https://s3-us-west-1.amazonaws.com/images.incronaut.com/darksouls-3.png" alt="darksouls-3" width="500" />
 
 <div style="color: #107c2f;"><b>Incronaut: </b><p>For me, I would say what makes Dark Souls a special game is that it forces you to play in a very specific way, which in and of itself is very different from other typical playstyles.  That being said, it also teaches you everything you need to know very organically.  Dark Souls teaches you to play a very slow observational playstyle.  It’s a bit different from a game like Journey, where Journey wants you to stop, enjoy the environment, and smell the roses.  Dark Souls instead is telling you that if you want to progress, you need to stop and think, a lot of times outside of the box, or else you will die.  The punishment for lack of knowledge is very severe, but also very necessary so that you have to play the Dark Souls game and brute forcing your way through is not a viable option (with of course some exceptions).</p>
 
@@ -46,7 +46,7 @@ Dark Souls.  A classic masterpiece that was so revolutionary it created its own 
 
 <p>Dying in Dark Souls also has real consequences. Not only do you get sent back to the last bonfire you rested at, but you also drop all your souls (exp points essentially) and humanity where you died. You can recover your souls if you make it back, but you’ll lose them permanently if you die again before then. Bonfires are also few and far between, meaning that the trek back to dropped souls can be long and difficult.</p>
 
-<img src="https://images.incronaut.com/darksouls-4.png" alt="darksouls-4" width="500" />
+<img src="https://s3-us-west-1.amazonaws.com/images.incronaut.com/darksouls-4.png" alt="darksouls-4" width="500" />
 
 <p>All this meant there definitely were many frustrating moments. Personally, the beginning of Dark Souls was pretty hard - the combat didn’t start clicking for me until around the Bell Gargoyles. I was also really annoyed by Bed of Chaos. This was one of the few bosses I felt was not well designed - not only was it not obvious how to actually attack it, the instant death from random holes opening up in the floor felt unfair.</p></div>
 
@@ -56,7 +56,7 @@ Dark Souls.  A classic masterpiece that was so revolutionary it created its own 
 
 <p>The final frustrating moment I wanted to mention is a negative side effect of trying to teach the player everything organically, which is that some things that were necessary for progression but were hidden from the player didn’t feel cleverly put out of sight, but instead just felt unintuitive and unnatural.  One example is the Crystal Dragon boss.  You encounter the boss multiple times through Duke’s Archive and the Crystal Cave.  The first encounter, the boss is on a ledge and is unhittable, with the unknown intent that you’re supposed to lose the battle.  This is the only instance where you’re supposed to lose in the game.  Afterwards in the real encounter with the boss, you finally have a chance to actually hit it, and while you are able to hit it, after a few seconds the boss restores its health.  What makes this situation unintuitive is that because of your previous experience with the boss, the Crystal Dragon going from untouchable to touchable but healing is very unclear that you need to do ANOTHER step to make the boss truly vulnerable.  Also, the healing mechanic made it unclear whether the boss was healing from an attack or a position versus me needing to actually do something about it.</p></div>
 
-<img src="https://images.incronaut.com/darksouls-5.jpg" alt="darksouls-5" width="500" />
+<img src="https://s3-us-west-1.amazonaws.com/images.incronaut.com/darksouls-5.jpg" alt="darksouls-5" width="500" />
 
 <h2>3. Following up on that, what made you want to keep going?</h2>
 
@@ -72,7 +72,7 @@ Dark Souls.  A classic masterpiece that was so revolutionary it created its own 
 
 <div style="color: #107c2f;"><b>Incronaut: </b><p>I played Dark Souls very recently, so far beyond its release date.  From this point in time, Dark Souls has had mountains and mountains of accolades and praises for it.  From awards to becoming its own freaking genre, Dark Souls had a lot of amazing things going for it that I just had to check it out.  One of the biggest descriptors for this beautiful game is that it is challenging.  It is hard and you will be tortured.  And you know what I had to say to that?  Challenge accepted.  With all these comments about how challenging the game is, the sense of accomplishment for finishing through the pain was definitely high.  Side note, after beating Dark Souls, I started playing easier more casual single-player games, and I have to say those other games felt almost TOO easy after going through Dark Souls.  It was a strange feeling.</p></div>
 
-<img src="https://images.incronaut.com/darksouls-6.jpg" alt="darksouls-6" width="500" />
+<img src="https://s3-us-west-1.amazonaws.com/images.incronaut.com/darksouls-6.jpg" alt="darksouls-6" width="500" />
 
 <h2>4. What are your thoughts on the gameplay itself?  (gameplay mechanics, gameplay related answers here)</h2>
 
@@ -102,7 +102,7 @@ Dark Souls.  A classic masterpiece that was so revolutionary it created its own 
 
 <h2>5. Dark Souls is known for its level design. What made it so special?</h2>
 
-<img src="https://images.incronaut.com/darksouls-7.png" alt="darksouls-7" width="500" />
+<img src="https://s3-us-west-1.amazonaws.com/images.incronaut.com/darksouls-7.png" alt="darksouls-7" width="500" />
 
 <div style="color: #88001b;"><b>VonTrappyFamily: </b><p>The Souls games’ level designs follow a simple pattern of using loops to make the world seem small and big at the same time, if that makes sense. If you think of a straight main path, but add loopy circles along it that makes the player stray off the main path, but only to make the player come back later while also unlocking a shortcut so the player doesn't have to visit the loopy circle path again. It retains a sense of progression while also conveying that the area is big and interconnected.</p>
 
@@ -116,7 +116,7 @@ Dark Souls.  A classic masterpiece that was so revolutionary it created its own 
 
 <p>In addition, these areas are all interconnected in a way that makes physical sense, with multiple ways to enter each area. As you progress though the game, you’ll unlock or discover connections to previous areas, which always felt very cool to me. I still remember the magical moment of unlocking and taking an elevator down from Undead Parish, just to realize that Firelink Shrine was directly below me the entire time.</p></div>
 
-<img src="https://images.incronaut.com/darksouls-8.png" alt="darksouls-8" width="500" />
+<img src="https://s3-us-west-1.amazonaws.com/images.incronaut.com/darksouls-8.png" alt="darksouls-8" width="500" />
 
 <div style="color: #107c2f;"><b>Incronaut: </b><p>First off, if you haven’t already, check out VonTrappyFamily’s blog post about level design, it’s a great read.  I feel like the most impressive thing for me about Dark Souls’ level design is that it’s all one cohesive map.  There are games where when you enter an elevator, it loads you to the supposed floor above you, but in Dark Souls, it’s actually designed where a section is below another section, and unlocking said elevator brings you directly back to the first place.  You see it all connect together and it’s very cleverly done. It’s all connected.  My personal favorite was in the beginning when you first take an elevator from the Undead Parish back to Firelink Shrine.  It was a really cool “wow” moment for me.  Also, Dark Souls loads surprisingly fast for having to load the whole world, since there are hardly any loading screens at all. </p></div>
 
@@ -136,7 +136,7 @@ Dark Souls.  A classic masterpiece that was so revolutionary it created its own 
 
 <div style="color: #182199;"><b>Nataku: </b><p>I would describe Dark Souls as dark or gothic fantasy. While not my favorite genre, I appreciate how cohesive the theme is - the gothic architecture, muted colors, and brooding orchestral music all help invoke a grim and somber world, which matches well with the enemy designs and overall difficulty. Though not the most graphically impressive, there are still areas that are very memorable due to their environmental design.</p></div>
 
-<img src="https://images.incronaut.com/darksouls-9.png" alt="darksouls-9" width="500" />
+<img src="https://s3-us-west-1.amazonaws.com/images.incronaut.com/darksouls-9.png" alt="darksouls-9" width="500" />
 
 <div style="color: #107c2f;"><b>Incronaut: </b><p>Dark Souls is, well, dark.  It’s lonely, but it’s also full of surprises.  I enjoyed how different all the bosses were, and how each area was pretty unique, despite the common factor that they’re all terrifying.  The story is very passively told, with hints from the NPCs you talk to, but nothing direct or in your face.  If you dig deeper, there is a lot to learn and enjoy.</p></div>
 
@@ -146,4 +146,4 @@ Dark Souls.  A classic masterpiece that was so revolutionary it created its own 
 
 <div style="color: #107c2f;"><b>Incronaut: </b><p>Overall, Dark Souls is a fantastic game despite its weaknesses.  Given the cleverness of the level design, the unique gameplay that was seamlessly interwoven into the environment, and the difficult challenge, I would give Dark Souls an 7.5/10.  Final note, there is a remastered version but I played the original to get the full original experience.</p></div>
 
-<img src="https://images.incronaut.com/darksouls-10.jpg" alt="darksouls-10" width="500" />
+<img src="https://s3-us-west-1.amazonaws.com/images.incronaut.com/darksouls-10.jpg" alt="darksouls-10" width="500" />

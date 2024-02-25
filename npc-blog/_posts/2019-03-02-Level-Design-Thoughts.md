@@ -8,7 +8,7 @@ author: vontrappfamily
 
 Ah, level design…. What does that mean?
 
-<img src="https://images.incronaut.com/leveldesign-1.png" alt="leveldesign-1" width="500" />
+<img src="https://s3-us-west-1.amazonaws.com/images.incronaut.com/leveldesign-1.png" alt="leveldesign-1" width="500" />
 
 It is such a broad and complex component of game design, seemingly a subtle and overlooked element, yet critical to a game’s quality. I have a sneaking suspicion that level design is an unsung hero to a game’s success, it is a versatile tool capable of supporting different aspects of the game. Driving an emotional impact of the narrative with scenic beauty or perhaps enhancing the gameplay mechanics with tricky platform placements. Good level design can carry a game far and I’ve always wondered what is considered “good” level design?
 
@@ -18,7 +18,7 @@ Before I start, I should mention that like with art, good or bad level design is
 
 <h2>~/~Introduction to the Labyrinth~/~</h2>
 
-<img src="https://images.incronaut.com/leveldesign-2.png" alt="leveldesign-2" width="500" />
+<img src="https://s3-us-west-1.amazonaws.com/images.incronaut.com/leveldesign-2.png" alt="leveldesign-2" width="500" />
 
 Let’s first start off with the responsibilities of level design. Off the top of my head, level design should strive for the following:
 
@@ -38,11 +38,11 @@ If the benefits of open world were supposedly to give a large quantity of choice
 
 For this analysis, we should start with the basic of basics and try to see what are the building blocks into creating an interesting level. Yep, that’s right, we are going to start with a motherfucking corridor.
 
-<img src="https://images.incronaut.com/leveldesign-3.jpg" alt="leveldesign-3" width="500" />
+<img src="https://s3-us-west-1.amazonaws.com/images.incronaut.com/leveldesign-3.jpg" alt="leveldesign-3" width="500" />
 
 This level design is as crude as the quality of this drawing that was spent 234712394 hours in MS paint. There is nothing interesting to say about this level design. The player marches forward, encounters an enemy represented by the letter “E”, and then goes to fight a boss and exits the map. That’s it and you’re done with the game. If I were to start thinking about what could make this level more interesting, the most obvious and simple answer is to add a fork in the road.
 
-<img src="https://images.incronaut.com/leveldesign-4.jpg" alt="leveldesign-4" width="500" />
+<img src="https://s3-us-west-1.amazonaws.com/images.incronaut.com/leveldesign-4.jpg" alt="leveldesign-4" width="500" />
 
 A fork has an importance. The fork itself isn’t necessarily important, but what it conveys to the player is significant.
 
@@ -56,13 +56,13 @@ With that being established, let’s refer back to the fork picture again for a 
 
 … that’s it?! That’s all the fork did?! What the fork?!
 
-<img src="https://images.incronaut.com/leveldesign-5.jpg" alt="leveldesign-5" width="500" />
+<img src="https://s3-us-west-1.amazonaws.com/images.incronaut.com/leveldesign-5.jpg" alt="leveldesign-5" width="500" />
 
 These type of questions are painfully boring and not engaging to the player. In fact, there is hardly any difference from the straight corridor picture if you were to put the treasure chest just behind the enemy. Yet, I feel many games keep falling for this same mistake repeatedly. The illusion of the fork is dispelled and there was not a hard decision to be made in the first place. All that happened was padding the game time by 10 seconds longer to walk over to get the dumb scrubby 10 gold reward from a dumb treasure chest bought from Ikea.
 
 Let’s change this bad boy up in a slightly different way.
 
-<img src="https://images.incronaut.com/leveldesign-6.jpg" alt="leveldesign-6" width="500" />
+<img src="https://s3-us-west-1.amazonaws.com/images.incronaut.com/leveldesign-6.jpg" alt="leveldesign-6" width="500" />
 
 Instead of placing the enemy in front of the fork, let’s place the enemy in front of the treasure chest. And just to make this decision harder, let’s also say that the player fought a few enemies prior to the start of this level so that the health bar is ‘less than perfect’. Already, we can see that the decision to go left or go right is a lot harder and needs to be heavily taken into consideration. There is a sense of risk management that the player needs to take. Attempt to fight the enemy and risk losing more health, or preserve what health is left and go toward the boss. But of course, the player can chalk it up to luck and hope to get a potion from the treasure chest if the enemy was successfully defeated. This is one of the few out of an infinite amount of interesting questions that the game can possibly give to the player through level design. Level design isn’t just about the layout of the map, but how the layout of the map interacts with enemy placements, how it interacts with gameplay mechanics, and how it makes the player analyze their skill and choices and perceive their current situation.
 
@@ -70,15 +70,15 @@ Harking back to the previous comment about open world, “If the benefits of ope
 
 <h2>~/~Brick by Brick~/~</h2>
 
-<img src="https://images.incronaut.com/leveldesign-7.jpg" alt="leveldesign-7" width="500" />
+<img src="https://s3-us-west-1.amazonaws.com/images.incronaut.com/leveldesign-7.jpg" alt="leveldesign-7" width="500" />
 
 As I walked farther into the maze-like wonderings about level design, I thought a lot about the techniques that can be used to implement a sauve level. One might say… (one being myself of course), that if it is all that it takes to create an interesting level design is player engagement, then supposedly we could just concatenate interesting “questions” together in a chain. Or go balls out and strap a multitude of interesting “questions” together at once!
 
-<img src="https://images.incronaut.com/leveldesign-8.jpg" alt="leveldesign-8" width="200" />
+<img src="https://s3-us-west-1.amazonaws.com/images.incronaut.com/leveldesign-8.jpg" alt="leveldesign-8" width="200" />
 
 Figure 1.
 
-<img src="https://images.incronaut.com/leveldesign-9.jpg" alt="leveldesign-9" width="500" />
+<img src="https://s3-us-west-1.amazonaws.com/images.incronaut.com/leveldesign-9.jpg" alt="leveldesign-9" width="500" />
 
 Figure 2.
 
@@ -86,11 +86,11 @@ Technically, there is nothing wrong with these two designs, but there is somethi
 
 Let’s open up MS paint again to edit Figure 1 and see if we can diversify the types of questions to the player and apply what has been learnt so far.
 
-<img src="https://images.incronaut.com/leveldesign-10.jpg" alt="leveldesign-10" width="200" />
+<img src="https://s3-us-west-1.amazonaws.com/images.incronaut.com/leveldesign-10.jpg" alt="leveldesign-10" width="200" />
 
 Figure 1a.
 
-<img src="https://images.incronaut.com/leveldesign-11.jpg" alt="leveldesign-11" width="200" />
+<img src="https://s3-us-west-1.amazonaws.com/images.incronaut.com/leveldesign-11.jpg" alt="leveldesign-11" width="200" />
 
 Figure 1b.
 
@@ -107,7 +107,7 @@ I’ve wondered if increasing the number of choices in a game is a good thing. N
 “More choices? That should be great! Think of the number of possibilities! Are you dumb, Sugoi Kawaii Miyafuji 420?!”
 
 
-<img src="https://images.incronaut.com/leveldesign-12.jpg" alt="leveldesign-12" width="500" />
+<img src="https://s3-us-west-1.amazonaws.com/images.incronaut.com/leveldesign-12.jpg" alt="leveldesign-12" width="500" />
 
 You may laugh at me all you want, but you can’t hurt the feelings of a person with accepted low self-esteem! I want go in the opposite direction of this wondering path and think about the consequence of overwhelming the player with choices. A sudden B20 bombardment of decisions can lead to a paralysis-type effect onto a player. Like being given a restaurant menu and taking ten minutes to figure which among the hundred of choices you want to eat, only to end with a small bitter soup like an old grumpy man barking at a deli sandwich store.
 
@@ -115,7 +115,7 @@ Too many choices can lead to too many distractions, which can potentially lead t
 
 Referring back to puke-stained Figure 2: 
 
-<img src="https://images.incronaut.com/leveldesign-13.jpg" alt="leveldesign-13" width="500" />
+<img src="https://s3-us-west-1.amazonaws.com/images.incronaut.com/leveldesign-13.jpg" alt="leveldesign-13" width="500" />
 
 If I was not lazy and actually made each branch to be more windy, obscuring the fact that there is a chest and an enemy at the end of each, the player might pause and ponder briefly which path to take first. In addition, the layout of this map could potentially give an unfulfilling sense of progress now that I think about it. As the player goes through each path and back to the main hub, he always end back at square 1, with less, but still a number of choices to make still. Is this map a lost cause and a failure? Is it impossible to stop the puking? Should I erase all those horrible crude branches instead?
 
@@ -131,7 +131,7 @@ Rather than erasing, let’s bluntly not let the players go through the branches
 
 Let’s take this map and apply all of the lessons that we have learned thus far.
 
-<img src="https://images.incronaut.com/leveldesign-14.jpg" alt="leveldesign-14" width="500" />
+<img src="https://s3-us-west-1.amazonaws.com/images.incronaut.com/leveldesign-14.jpg" alt="leveldesign-14" width="500" />
 
 Tada~! I present to you the new and improved Figure 2 map!
 
@@ -145,7 +145,7 @@ Going back to the main hub is no longer an unfulfilling sense of progress. Acces
 
 Level design is a component that can be as creative as art and music. The art of directing a player through a location is a complicated topic, but a worthwhile one to explore. The endless possibilities are unimaginable and unbound. For example, in the new and improved Figure 2 map, instead of a body of water, I could have easily used lava. Instead of doors, I could have used huge difficult monsters as deterrence. Instead of keys, I could have used newfound abilities. Instead of being interior, I could have made the whole map be an exterior map, replacing walls with tall, tall mountains and replacing chests with towns. And what do you know? We have an “open world” design.
 
-<img src="https://images.incronaut.com/leveldesign-15.jpg" alt="leveldesign-15" width="500" />
+<img src="https://s3-us-west-1.amazonaws.com/images.incronaut.com/leveldesign-15.jpg" alt="leveldesign-15" width="500" />
 
 The principles of level design remain the same throughout the spectrum from small-scale linear maps to large-scale open maps. If gameplay mechanics was the hero, level design would be the trusty sidekick, covering the gameplay and providing opportunities where each unique aspect of the hero can resonate brighter in this melodic game symphony.
 
@@ -153,6 +153,6 @@ And I would like to think that one of the best gifts level design can give to th
 
 The joy of accomplishment from conquering a space of hardships, whether big or small…
 
-<img src="https://images.incronaut.com/leveldesign-16.jpg" alt="leveldesign-16" width="500" />
+<img src="https://s3-us-west-1.amazonaws.com/images.incronaut.com/leveldesign-16.jpg" alt="leveldesign-16" width="500" />
 
 …the grand scale of victory.

@@ -6,7 +6,7 @@ short_description: "The night the entire dubnation became cubnation."
 author: hawkzero
 ---
 <div style="width: 100%; display: inline-block; text-align: center;">
-	<img alt="cub1" src="http://images.incronaut.com/cub1.jpg"/>
+	<img alt="cub1" src="https://s3-us-west-1.amazonaws.com/images.incronaut.com/cub1.jpg"/>
 </div>
 
 You're probably wondering why I'm writing about baseball in a basketball blog. Despite having no vested interest in either teams, last night I witnessed what has to be the most exciting baseball game to date. I know there are a lot of you basketball fans that don't watch baseball, don't care about baseball and don't want to read about baseball but hear me out: THE CLEVELAND INDIANS BLEW A 3-1 LEAD AGAINST THE CUBS IN THE WORLD SERIES. Sound familar?
@@ -24,25 +24,25 @@ Screw you LeBron!
 
 God <u>still</u> hates Cleveland. The rain delay crushed all Cleveland's momentum and allowed the Cubs to recuperate for their final two runs.
 
-<img alt="cub2" src="http://images.incronaut.com/cub2.jpg" width="500"/>
+<img alt="cub2" src="https://s3-us-west-1.amazonaws.com/images.incronaut.com/cub2.jpg" width="500"/>
 
 A few days ago, LeBron hosted a Halloween party where he mocked the Warriors for blowing a 3-1 lead in the NBA Finals. Karma.
 
-<img alt="cub3" src="http://images.incronaut.com/cub3.jpg" width="300" />
+<img alt="cub3" src="https://s3-us-west-1.amazonaws.com/images.incronaut.com/cub3.jpg" width="300" />
 
 Not even 30 seconds after the game, Draymond tweets out "Man 3-1 sucks".
 
-<img alt="cub4" src="http://images.incronaut.com/cub4.jpg" width="300" />
+<img alt="cub4" src="https://s3-us-west-1.amazonaws.com/images.incronaut.com/cub4.jpg" width="300" />
 
 The internet (reddit) goes wild. 2016 is the year of the 3-1s. Here are my favorites:
 
-<img alt="cub5" src="http://images.incronaut.com/cub5.jpg" width="500" />  
+<img alt="cub5" src="https://s3-us-west-1.amazonaws.com/images.incronaut.com/cub5.jpg" width="500" />  
 
-<img alt="cub6" src="http://images.incronaut.com/cub6.jpg" width="250"/>  
+<img alt="cub6" src="https://s3-us-west-1.amazonaws.com/images.incronaut.com/cub6.jpg" width="250"/>  
 
-<img alt="cub7" src="http://images.incronaut.com/cub7.jpg" width="500"/>
+<img alt="cub7" src="https://s3-us-west-1.amazonaws.com/images.incronaut.com/cub7.jpg" width="500"/>
 
-<img alt="cub8" src="http://images.incronaut.com/cub8.gif" />  
+<img alt="cub8" src="https://s3-us-west-1.amazonaws.com/images.incronaut.com/cub8.gif" />  
 
 That night the entire dubnation became cubnation. It's hard to describe what it feels like as a Warriors fan. It's therapeutic in a way, knowing that it's come full circle. The door for last year's finals has fully closed. As a salty Warriors fan, Cleveland winning would've opened up old wounds. So thanks Chicago. We needed it. More than you probably think.
 
